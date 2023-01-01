@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: 2022 Season
 description: 2022 Seasons 
 keywords: frc, automated amphibians, robotics, about

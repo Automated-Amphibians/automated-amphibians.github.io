@@ -1,0 +1,20 @@
+{
+    "folders": [
+		{
+			"path": "../frc-survival-guide"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "files.exclude": {
+            "**/_site": true,
+            "**/.jekyll-cache": true
+        },
+        "search.exclude": {
+            "**/_site": true,
+            "**/.jekyll-cache": true
+        }
+    }
+}
