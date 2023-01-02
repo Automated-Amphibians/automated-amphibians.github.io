@@ -9,5 +9,5 @@ layout: content
         * Make a commit        
     * Create a branch
     * Push to a branch
-    * Merging!
-    * 
+    * Merging
+    * And discovering conflicts!
