@@ -46,6 +46,15 @@ h1,h2,h3 {
     font-weight: bold;            
 }
 
+div.quote {
+    
+    background: #ddd;
+    padding: 1em;
+}
+div.quote > div > pre > code {
+    white-space: break-spaces;
+    
+}
 
 @media (min-width: 992px)  {
     .page .col-lg-2:nth-child(1) {                

@@ -2,3 +2,15 @@
     height: 1em !important;
 }
 
+blockquote {
+    background: #eee;
+    padding: 0.5em;
+}
+
+.wy-nav-content {
+    max-width: 80%;
+}
+
+.wy-table-responsive table td {
+    white-space: initial;
+}
