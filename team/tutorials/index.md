@@ -1,24 +1,28 @@
 ---
 layout: content
+title: Tutorials
 ---
 
-* [GIT](git)
-* [FRC Java](frc-java)
+Most of these are incomplete, to be done later.
 
-# Learning Computers
+#### Start with
 * filesystems (navigating computer storage)
 * console
 * ssh
 * binary-and-character-encoding
 
+#### Deeper Background
+* executing-code
 * operating-systems
 
-* executing-code
-* networking
-* git
-
+#### Then
+* [GIT](git)
 * java
-    * frc-java
+    * [FRC Java](frc-java)
+* networking
+
+
+
 
 
         
