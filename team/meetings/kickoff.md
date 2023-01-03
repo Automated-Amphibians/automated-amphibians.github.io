@@ -2,6 +2,19 @@
 layout: content
 ---
 
+### Kickoff Timeline
+* 10:00am - doors open 
+* 10:00-11:30am - quick fun activities put on by the FF team 
+* 10:30-11:30am - separate from the activities, FF will give a presentation on how they prepare for the game/season
+* 12:00pm - Game reveal video
+* 12:30pm - Game Reveal Ends
+    * Game Kits Delivered
+    * Additional Videos To Watch (field video)
+    * Lunch Begins when Frog Force is ready
+* 1:30? - Lunch 
+    * Game rule reading at table 
+    * [Use the question guide](/frc-survival-guide/aa-handbook/planning/kickoff-planning-session/)   
+* 4:30-5:30pm - this is the earliest I expect we will finish the day 
 
 ### Groups
 
