@@ -6,11 +6,13 @@ layout: content
 * [FRC Java](frc-java)
 
 # Learning Computers
-* filesystems
+* filesystems (navigating computer storage)
 * console
+* ssh
 * binary-and-character-encoding
 
 * operating-systems
+
 * executing-code
 * networking
 * git

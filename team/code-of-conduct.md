@@ -17,6 +17,6 @@ Additionally, you should understand that FRC is a commitment that will require a
 to joing a high school sport. For short periods, FRC requires more than a sport. During the times we meet less than a 
 HS sport, there is often learning that needs to be done outside of class in order to be prepared for more busy periods.
 
-* Not acceptable: I'll make it twice a week.
+* Not acceptable: I'll make it once a week for the pre-season.
 * Acceptable: I'm part of a team, I'll put in effort to be prepared to contribute to whatever the team needs, 
   whether it is building a robot or some other task.

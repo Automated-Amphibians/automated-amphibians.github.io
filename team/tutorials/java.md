@@ -13,16 +13,6 @@ It will contain a quick background on java programming and will cover the topics
             * methods - "groups of statements"
                 * statements - an instruction, or group of instructions terminated by a semicolon                
 
-* What a class, method and statements are and how they are defined.   
-* Variables types and scope (boolean, int, float, doubles, void, arrays)
-* Expressions/Comparisons 
-* Methods, Parameters, Return Values, and why we use static
-* Naming Conventions
-* How to output a variable to the console (System.out.println())
-* Loops
-* The basics of inheritance and interfaces
-
-
 
 ### Quiz
 

@@ -82,11 +82,29 @@ pre.highlight  {
     max-width: 80%;    
     box-shadow: 1px 1px 3px #ccc;
     padding: 0.5em;
+    width: 65%;
 }
 
 ul.quiz > li > ul > li {
     display: none;
 }
+
+ul.code-list {
+    padding: 0;
+}
+ul.code-list code {
+    margin-right: 0.5rem;
+}
+ul.code-list code:after {
+    content: '>';
+    margin-left: 0.5rem;
+    color: black; 
+}
+ul.code-list li {
+    list-style: none;
+    padding: 0 0 0 0.25em ;
+}
+
 
 @media print {
     ul.quiz > li {
@@ -109,4 +127,12 @@ ul.quiz > li > ul > li {
         top: 5%;
         left: 5%;
     }
+}
+
+.mono {
+    color:black;
+}
+
+li.nav-item {
+    margin-left: 2em;
 }
