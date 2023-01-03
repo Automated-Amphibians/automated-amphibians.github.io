@@ -443,8 +443,8 @@ first time from a fresh branch.
 
 This is the absolutely most basic usage you can get away with. 
 
-I recommend downloading a good [cheatsheet](https://ihatetomatoes.net/wp-content/uploads/2020/05/git-cheat-sheet-v01.pdf) to help
-familiarize yourself
+I recommend downloading a good [cheatsheet](https://ihatetomatoes.net/wp-content/uploads/2020/05/git-cheat-sheet-v01.pdf) to help remind 
+you of commands, but also of course reading from the references, in particular the [GIT Handbook](https://git-scm.com/book/en/v2)
 
 I also highly recommend we complete a more advanced usage that talks about the following:
 
