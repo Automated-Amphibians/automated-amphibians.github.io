@@ -50,6 +50,7 @@ usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
         <command> [<args>]        
 
 ... rest cut out
+
 ```
 It's a good practice to get used to [reading the manual to get help for a command](console#reading-the-manual). 
 
@@ -291,7 +292,7 @@ It says there's nothing to commit. Nothing has been changed since the last commi
 
 But how can we see our commit? In VS Code:
 
-![](git-assets/git-commit-buit-not-pushed.png)
+![](git-assets/git-commit-but-not-pushed.png)
 
 In in VS Code, we see that the timeline has updated (not shown above, just select the java file to see it update the timeline). 
 If we click the SCM icon on the left, we get a button to publish the branch. 
@@ -358,21 +359,23 @@ Alright, as the title says, lets push our changes:
 
 You should see output similar to:
 
-    cgp@computer~/git/frc/git-sandbox$ git push -u origin cgp
-    Enumerating objects: 33, done.
-    Counting objects: 100% (33/33), done.
-    Delta compression using up to 12 threads
-    Compressing objects: 100% (19/19), done.
-    Writing objects: 100% (33/33), 5.36 KiB | 5.36 MiB/s, done.
-    Total 33 (delta 3), reused 11 (delta 1), pack-reused 0
-    remote: Resolving deltas: 100% (3/3), done.
-    remote: 
-    remote: Create a pull request for 'cgp' on GitHub by visiting:
-    remote:      https://github.com/Automated-Amphibians/git-sandbox/pull/new/cgp
-    remote: 
-    To github.com:Automated-Amphibians/git-sandbox.git
-    * [new branch]      cgp -> cgp
-    branch 'cgp' set up to track 'origin/cgp'.
+```
+cgp@computer~/git/frc/git-sandbox$ git push -u origin cgp
+Enumerating objects: 33, done.
+Counting objects: 100% (33/33), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (19/19), done.
+Writing objects: 100% (33/33), 5.36 KiB | 5.36 MiB/s, done.
+Total 33 (delta 3), reused 11 (delta 1), pack-reused 0
+remote: Resolving deltas: 100% (3/3), done.
+remote: 
+remote: Create a pull request for 'cgp' on GitHub by visiting:
+remote:      https://github.com/Automated-Amphibians/git-sandbox/pull/new/cgp
+remote: 
+To github.com:Automated-Amphibians/git-sandbox.git
+* [new branch]      cgp -> cgp
+branch 'cgp' set up to track 'origin/cgp'.
+```
 
 Also observe the following:
 
@@ -381,16 +384,18 @@ Also observe the following:
 
 There's a lot to unpack in the above, but let's do it after we try and get your classmates changes.
 
-    cgp@computer:~/git/frc/git-sandbox$ git pull
-    remote: Enumerating objects: 5, done.
-    remote: Counting objects: 100% (5/5), done.
-    remote: Compressing objects: 100% (3/3), done.
-    remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
-    Unpacking objects: 100% (3/3), 723 bytes | 723.00 KiB/s, done.
-    From github.com:Automated-Amphibians/git-sandbox
-    * [new branch]      grian      -> origin/grian
-    3493137..e2ab178  main       -> origin/main
-    Already up to date.
+```
+cgp@computer:~/git/frc/git-sandbox$ git pull
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 723 bytes | 723.00 KiB/s, done.
+From github.com:Automated-Amphibians/git-sandbox
+* [new branch]      grian      -> origin/grian
+3493137..e2ab178  main       -> origin/main
+Already up to date.
+```
 
 Ah, look at that, we've got grians' changes now. We could go look at them by just checking out that branch with:
 
@@ -456,6 +461,7 @@ I also highly recommend we complete a more advanced usage that talks about the f
 * git stash pop
 * git branch -vv
 * git remote -vv
+* git revert
 * Talk about hashes
 
 ### Quick reference

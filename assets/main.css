@@ -107,10 +107,8 @@ ul.code-list li {
 
 
 @media print {
-    ul.quiz > li {
-        margin-top: 5em !important;
-        padding-top: 5em !important;
-        border-top: solid 1px #999;
+    ul.quiz > li {        
+        margin-bottom: 5em !important;        
         background: red;
     }        
 
