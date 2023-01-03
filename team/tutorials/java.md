@@ -2,12 +2,11 @@
 layout: content
 ---
 
-This is a super brief, super quick java tutorial
+This tutorial is a placeholder.
 
-Classes are the basic unit of 
+It will contain a quick background on java programming and will cover the following topics:
 
-* What a class, method and statements are and how they are defined.
-    
+* What a class, method and statements are and how they are defined.   
 * Variables types and scope (boolean, int, float, doubles, void, arrays)
 * Expressions/Comparisons 
 * Methods, Parameters, Return Values, and why we use static
@@ -16,7 +15,9 @@ Classes are the basic unit of
 * Loops
 * The basics of inheritance and interfaces
 
+
 ### Quiz
 
-##### What is a 
-* A class is a blueprint or template for a collection of variables in memory and methods/function contained by the instance.
+* What is a class?
+    * A class is a blueprint or template for a collection of variables in memory and methods/function contained by the instance.
+{:.quiz}

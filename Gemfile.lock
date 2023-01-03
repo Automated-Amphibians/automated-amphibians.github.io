@@ -256,6 +256,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 215)
+  jemoji
 
 BUNDLED WITH
    2.3.25

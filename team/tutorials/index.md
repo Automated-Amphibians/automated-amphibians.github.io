@@ -2,5 +2,21 @@
 layout: content
 ---
 
-* [GIT](git.html)
-* [FRC Java](frc-java.html)
+* [GIT](git)
+* [FRC Java](frc-java)
+
+# Learning Computers
+* filesystems
+* console
+* binary-and-character-encoding
+
+* operating-systems
+* executing-code
+* networking
+* git
+
+* java
+    * frc-java
+
+
+        

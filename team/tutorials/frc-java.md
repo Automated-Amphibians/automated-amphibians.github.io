@@ -2,17 +2,9 @@
 layout: content
 ---
 
-This tutorial assumes you know the basics about Java. You should have a grasp on:
+[This tutorial assumes you know the basics about Java already.](java)
 
-* What a class, method and statements are and how they are defined.
-    * A class is a blueprint or template for a collection of variables in memory and methods/function contained by the instance.
-* Variables and the basic primitive types (boolean, int, float, doubles, Strings, void, arrays)
-* Expressions/Comparison 
-* Methods, Parameters, Return Values, and why we use static
-* Naming Conventions
-* How to output a variable to the console (System.out.println())
-* Loops
-* The basics of inheritance and interfaces
+[Retain more with the quiz](frc-java-quiz)
 
 This tutorial also assumes you have the FRC WPILib installed.
 
