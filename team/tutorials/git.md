@@ -6,6 +6,8 @@ See [curriculum](/frc-survival-guide/aa-handbook/curriculum/coding-curriculum).
 
 [Quiz questions help to reinforce the material.](git-quiz)
 
+This tutorial assumes you have git installed, and that you've generated an ssh key using the `ssh-keygen` tool from the command line and 
+attached it to your github account.
 
 ### Learning
 ##### What is version control or Source Control Management (SCM)? 
@@ -269,12 +271,34 @@ to commit. The command is pretty straightforward:
 
     git commit -m "I made a change"
 
+
 You should get a response something like:
 
     cgp - .git/COMMIT_EDITMSG
     [cgp 8ba087c] cgp: made a change
     1 file changed, 1 insertion(+)
 
+<details markdown="1">
+<summary>I didn't get that...</summary>
+
+*Did you get something more like this?*
+
+```
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"
+
+to set your account's default identity.
+```
+
+Just follow the instructions and you should be good to continue the tutorial.
+
+</details>
 
 The `commit` command tells it to commit the staged changes to the local repository for permanent safe keeping
 and to be shared later. The `-m` option along with the quoted text provides a comment. If you leave off

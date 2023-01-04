@@ -134,3 +134,13 @@ ul.code-list li {
 li.nav-item {
     margin-left: 2em;
 }
+
+details {
+    border: dashed 2px #ddd;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
+summary {
+    font-size: 85%;
+}
