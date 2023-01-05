@@ -363,7 +363,7 @@ Now we get:
 Oh, so much better, but now that's a whole lot to type just to see the history. I'm never going to remember that. 
 We can create an shorter `alias` of our own design that's easy to remember.
 
-    git config --global alias.logs log --all --decorate --oneline --graph
+    git config --global alias.logs "log --all --decorate --oneline --graph"
 
 Now we can type `git logs` (from the *alias.logs* part of the configuration command up above) and get the exact same thing.
 What you name the alias is completely up to you, as long as the command hasn't been already used.
