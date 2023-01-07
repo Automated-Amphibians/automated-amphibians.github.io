@@ -4,7 +4,7 @@ title: Amphibians Handbook
 ---
 
 ### Links
-* [Next Meeting](/team/meetings/meeting-2023-01-03)
+* [Next Meeting](/team/meetings/meeting-2023-01-10)
 * [Kickoff](/team/meetings/kickoff)
 * [Tutorials](/team/tutorials)
 * [Current Purchasing List](/team/purchasing-list)

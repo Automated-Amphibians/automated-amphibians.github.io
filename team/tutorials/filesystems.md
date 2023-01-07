@@ -13,6 +13,7 @@ Typically you can think of data as being organized at three levels:
 * Drive or Mount 
     * Folder
         * File
+            * Metadata and other Attributes
             
 Files are the most basic unit of storage an operating system has. Files can be just about anything. It is often easy 
 to tell what type a is from the "extension" appended to the end of the filename. 
@@ -65,8 +66,8 @@ Binary files store their data in such a way, that they
 Technically speaking, almost all files are binary, including text files. TODO: Talk about encoding
 
 #### Other or Special System Files
-We'll get this "super-type" out of the way first because it's the most unusual, and while it is good to know about, you won't typically
-have to deal with it. 
+We'll get this "super-type" out of the way first because it's the most unusual, and while it is good to know about, 
+you won't typically have to deal with it. 
 
 TODO: Talk about symbolic link files, files that point to hardware, and /dev/null
 

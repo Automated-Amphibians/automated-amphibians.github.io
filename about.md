@@ -6,7 +6,7 @@ keywords: frc, automated amphibians, robotics, about
 ---
 ## Who we are and what we do
 
-![image]({{site.baseurl}}/assets/centered-logo-trimmed.jpg){: style="float: right;width:200px;padding-left: 2em;"}
+![image]({{site.baseurl}}/assets/centered-logo-trimmed.jpg){: style="float: right;width:200px;"}
 
 Automated Amphibians (Team 8426) is a competitive robotics team that participates in a league called First Robotics Competition (FRC). 
 

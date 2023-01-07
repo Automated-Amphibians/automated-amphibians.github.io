@@ -22,6 +22,7 @@ GIT is an application that does Source Control Management. It is a very popular 
 
 We're going to use the command line version of git here for a couple of reasons:
 
+* It is better for teaching the fundamentals of GIT.
 * The same version is available on all operating systems we use.
 * It always has the latest features. (no tool adds core features to git before the command line tool)
 * It always works. (If it doesn't, you have bigger problems, or you need to configure it properly.)
@@ -246,7 +247,7 @@ Run a `git status` again and now you should see something like:
 
 So, it sees our changes. Great. (how does it know?)
 
-### Lets get to saving our changes so they can be saved
+### Lets get to `staging` our changes so they can be saved
 
 There are three primary ways to add or stage our changes:
 
@@ -470,7 +471,9 @@ exactly what command to use to do the binding. You can copy and paste it exactly
 instead of `-u`, but it is the same command) You can also set an alias that would do the binding. But only use that when you push that 
 first time from a fresh branch.
 
-This is the absolutely most basic usage you can get away with. 
+This is the absolutely most basic usage we can get away with. I'll do a quick follow up to reinforce the core concepts and how to use 
+VS Code to do perform changes instead of the command line, because while I use the command line, some students will prefer to stay 
+in the editor. 
 
 I recommend downloading a good [cheatsheet](https://ihatetomatoes.net/wp-content/uploads/2020/05/git-cheat-sheet-v01.pdf) to help remind 
 you of commands, but also of course reading from the references, in particular the [GIT Handbook](https://git-scm.com/book/en/v2)

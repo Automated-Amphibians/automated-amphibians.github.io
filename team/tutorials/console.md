@@ -2,6 +2,11 @@
 layout: content
 ---
 
+#### This tutorial answers the following questions: 
+* What in the world is going on within this program? (inside technical details)
+* How do I find my stuff?
+
+
 TODO 
 
 Describes how to use the console. 

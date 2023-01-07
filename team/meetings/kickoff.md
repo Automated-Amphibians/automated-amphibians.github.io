@@ -16,22 +16,38 @@ layout: content
     * [Use the question guide](/frc-survival-guide/aa-handbook/planning/kickoff-planning-session/)   
 * 4:30-5:30pm - this is the earliest I expect we will finish the day 
 
+Based on [planning session](/frc-survival-guide/aa-handbook/planning/kickoff-planning-session/).
+
+#### First: 
+[Game Analysis](kickoff-game-analysis)
+
+#### Second
+3. List out the each of the functions that the robot will have to perform. This can be done as simply as just trying to play with a student as a robot.    
+    * Drive based on preset program
+    * Drive based on user input
+    * Pick up game piece
+    * Deliver game piece
+    * Climb    
+
+    
+
+
+
+
 ### Groups
 
-#### Two groups 
+#### Two groups (B) - preferred
 
 * Nathan Pall
 * Konark Sahoo
 * Hanna Park
 * Sanvi Rao
 * Luke Warren
-* Harsukhman Kaur
 * (Eshwar Danduri)
 * (Srinivas Mummidivarapu)
 * (Babu Ravindran)
 * (Cindy Warren)
 
-* Rathul Kishore Mahendra Babu
 * Sanjith
 * Pranaov Giridharan
 * Aiden Sundquist
@@ -41,6 +57,28 @@ layout: content
 * (Chris Pall)
 * (Sib)
 * (Lauren Sundquist)
+
+#### Two groups (A)
+* Nathan Pall
+* Konark Sahoo
+* Luke Warren
+* Pranaov Giridharan
+* Sanjith
+* Aiden Sundquist
+* (Eshwar Danduri)
+* (Srinivas Mummidivarapu)
+* (Babu Ravindran)
+* (Cindy Warren)
+
+* Hanna Park
+* Sanvi Rao
+* Manasa
+* Hansini
+* (Gurudutt Rao)
+* (Chris Pall)
+* (Sib)
+* (Lauren Sundquist)
+
 
 #### Three Groups 
 * Nathan Pall
