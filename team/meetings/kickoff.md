@@ -29,9 +29,6 @@ Based on [planning session](/frc-survival-guide/aa-handbook/planning/kickoff-pla
     * Deliver game piece
     * Climb    
 
-    
-
-
 
 
 ### Groups

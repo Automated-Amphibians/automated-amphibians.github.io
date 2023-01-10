@@ -144,3 +144,6 @@ details {
 summary {
     font-size: 85%;
 }
+
+.qa ul {padding: 0;list-style: none;font-weight: bold;}
+.qa p { color: red}
