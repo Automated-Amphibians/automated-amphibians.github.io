@@ -6,9 +6,10 @@ layout: content
 ### Robot Tasks
 * Drivetrain
     * Build Swerve Drive Modules
-    * Order Neo/Falcon Motors, whichever comes first
+    * Build Drivetrain
+    * Order Neo parts whichever comes first
     * Order/Requisition Parts for Frame
-    * Bumper Builds
+    * Bumper Builds (got fabric, noodles, velcro)
     * Frame Build
         * Examine Existing Implementations 
         * 
@@ -16,23 +17,20 @@ layout: content
         
     * Build Frame [test]    
 * Wiring
-    * Design Electrical platform
+    * Design Electrical platform    
 * Mechanism
-
+    * Design
+    * Review everybot
 
 ### Coding Preparation/General
 * ~~[Learn Java Basics](tutorials/java)~~
 * [Learning FRC Java](tutorials/frc-java)
 * [GIT Tutorials](tutorials/git) (2 of 5 required have completed)
 
-### Build Preparation/General
+### Preparation/Generael
 * ~~Disassemble Robot~~
 * ~~Assemble Robot Demonstration~~
-* Do Onshape Tutorials 
-* Mechanism
-    * Design Mechanism
-* Build Swerve Drive System
-* Build Drivetrain
+* Do Autodesk Inventor Tutorials 
 
 ### Mentors
 * Need to sign the following form:
@@ -41,6 +39,7 @@ layout: content
     * Bandsaw
     * Grinder?
     * Lathe (less important, might even be able to )
+* Volunteering Days Required (2 8 hour days for 2 people (or 32 hours -- or 16 half days if we get to 16 volunteers to build an arena))
 
 ### Administration
 * Signup on First ()

@@ -87,8 +87,6 @@ ground level vs. upper levels
 
 * Are some parts of the field going to be hard to see from?
 
-
-
 * Are there any chokehold strategies, or a strategy that insures your team will absolutely win? What rules prevent this?
 
 the non-community areas will be bumping areas
