@@ -46,11 +46,11 @@ h1,h2,h3 {
     font-weight: bold;            
 }
 
-div.quote {
-    
+div.quote {    
     background: #ddd;
     padding: 1em;
 }
+
 div.quote > div > pre > code {
     white-space: break-spaces;
     
@@ -60,8 +60,9 @@ div.quote > div > pre > code {
     .page .col-lg-2:nth-child(1) {                
         background: #00b0b0 url(/assets/aa-lizard-only-facing-right.png) no-repeat;
         background-size: 80%;
-        background-position: top;
-        opacity: .1;
+        background-position: 50% 2em;
+        opacity: .2;
+        
                     }
 }
 

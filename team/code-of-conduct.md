@@ -2,6 +2,7 @@
 layout: content
 ---
 
+
 ### Requirements
 
 * Attendance once a week from October until December
