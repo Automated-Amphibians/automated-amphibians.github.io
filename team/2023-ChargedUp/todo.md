@@ -18,6 +18,7 @@ layout: content
     * Coding: Break down basics of PID
     * Coding: Import Basic Swerve Functionality, update motor controllers, constants    
     * Coding: Create stubs for basic functionality -- split into teams?
+    * Coding: Update to latest 2023 version of wpilib
         
 * Can be done with some information
     * Chassis: Cut and Assemble
