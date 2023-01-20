@@ -9,13 +9,13 @@ layout: content
     * Bellypan: Decide dimensions, how it will be fastened    
     * Electronics: Finish Crimping motor controllers/motors
     * Electronics: Update motor controllers with latest firmware & label CAN ids        
-    * Electronics: Wire battery, begin charging
+    * Electronics: Wire new battery, check charge on others
     * Electronics: Cut Anderson Powerpole connectors
     * Electronics: Update Roborio software with latest image    
     * Mechanism: Create required parts list for everybot    
     * Bumper: Design/Learn/Decide how it will attach to frame
     * Coding: Talk about how drivetrain, swervemodules, kinematics and odometry all work together
-    * Coding: Talk about PID
+    * Coding: Break down basics of PID
     * Coding: Import Basic Swerve Functionality, update motor controllers, constants    
     * Coding: Create stubs for basic functionality -- split into teams?
         
