@@ -6,7 +6,7 @@ body {
     margin-top: 0;
 }
 
-.bold-list ul {
+ul.bold-list {
     padding-left: 0.5rem;
 }
 
@@ -118,7 +118,7 @@ ul.code-list li {
         background: red;
     }        
 
-    nav {
+    .no-print {
         display: none !important;
     }
 

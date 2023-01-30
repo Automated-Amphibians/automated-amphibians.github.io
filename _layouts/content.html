@@ -32,12 +32,14 @@
         var timeleft = countDownDate - now;        
         var days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
         var weeks = (days / 7).toFixed(0);        
-        $("h1").after("<h2 style='color:#a00'>"+weeks+" weeks until competition!</h2>")        
-        var uplevel = location.pathname.substr(0, location.pathname.lastIndexOf("/"));
-        if (location.pathname.lastIndexOf("/") == location.pathname.length-1) {
-            uplevel = uplevel.substr(0, uplevel.lastIndexOf("/"));
+        if (location.pathname.substr(0, 5) == "/team") {
+            $("h1").after("<h2 style='color:#a00' class='no-print'>"+weeks+" weeks until competition!</h2>")        
+            var uplevel = location.pathname.substr(0, location.pathname.lastIndexOf("/"));
+            if (location.pathname.lastIndexOf("/") == location.pathname.length-1) {
+                uplevel = uplevel.substr(0, uplevel.lastIndexOf("/"));
+            }
         }
-        $("h1").before("<a href='"+uplevel+"'>Parent</a>");
+        $("h1").before("<a href='"+uplevel+"' class='no-print'>Parent</a>");
         
     </script>
            
