@@ -131,6 +131,13 @@ ul.code-list li {
         top: 5%;
         left: 5%;
     }
+
+    .container, .row, nav, .col-lg-8, h1 {
+        margin: 0px !important;
+        padding: 0px !important;
+        width: 95%;
+        text-align: justify;
+    }
 }
 
 .mono {

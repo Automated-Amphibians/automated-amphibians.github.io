@@ -11,6 +11,7 @@ layout: content
 * [Reimbursement](purchasing) - How to purchase things and get reimbursed.
 
 ### Sponsorship Resources
-* https://www.chiefdelphi.com/t/sponsor-letter/136085
-{: .code-list}
+* [Example Sponsorship Letter](https://www.chiefdelphi.com/t/sponsor-letter/136085)
+* [Letter for Magna](magna-letter)
+
 
