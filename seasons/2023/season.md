@@ -1,16 +1,12 @@
 ---
 layout: content
+title: Season Build Log
 ---
 
-### Tasks
+The 2023 FRC Season "Charged Up!" has begun. Despite some early obstacles, we're making rapid progress towards a drivable chassis.
 
-* Finish Building Swerve Modules
-* Basic Frame Assembled
-* Cut belly pans, mount equipment
-    * Wire equipment
-* Code Swerve
-* Mechanism
-    * Design
-    * Build
-    * Wire
-    * Code
+![](FRC8426-2023-chassis.jpg)
+
+Currently in progress is bumpers and wiring and mounting of components to the chassis.
+
+

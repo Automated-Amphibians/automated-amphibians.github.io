@@ -6,11 +6,18 @@ keywords: frc, automated amphibians, robotics, about
 ---
 ## Who we are and what we do
 
-![image]({{site.baseurl}}/assets/centered-logo-trimmed.jpg){: style="float: right;width:200px;"}
+![image]({{site.baseurl}}/assets/centered-logo-trimmed.jpg){: style="float: right;width:200px;margin-left: 2em"}
 
-Automated Amphibians (Team 8426) is a competitive robotics team that participates in a league called First Robotics Competition (FRC). 
+We are a competitive robotics team in the [FRC (First Robotics Competition)](https://www.firstinspires.org/robotics/frc). We were founded in 2020, but didn't fully compete until 2022. In 2022 we placed 8th out of 40 teams at our first competition. 
 
-Team 8426 is built from students with little to no robotics experience prior to High School. Team 8426 is also ideal for students looking to take a bigger role on a smaller team. Students will be challenged to learn STEM principals including coding, how to design and fabricate robot parts, and how a group of engineers coordinates a large project towards a single goal. 
+**Team 8426 is built entirely from 9th grade students with little to no robotics experience prior to High School.** 
+
+We focus on:
+* Developing curiosity and instincts about making, software development, and engineering principals of robot building
+* A hands on experience, primarily focused on engineering.
+* Maintaining a minimum of 3:1 student to mentor ratio
+
+Students will be challenged to learn STEM principals including coding, how to design and fabricate robot parts, and how a group of engineers coordinates a large project towards a single goal. 
 
 A successful season with FRC 8426 isn’t a grind towards an award. For us, a successful season is one that ends with students excited about pursuing deeper levels of mastery in robotics, stem, and academics.
 

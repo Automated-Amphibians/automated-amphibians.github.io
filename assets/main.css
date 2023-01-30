@@ -80,10 +80,13 @@ pre.highlight  {
 }
 
 .content img {
+    max-width: 100%;
+}
+.tutorial .content img {
     max-width: 80%;    
     box-shadow: 1px 1px 3px #ccc;
     padding: 0.5em;
-    width: 65%;
+    width: 80%;
 }
 
 ul.quiz > li > ul > li {
@@ -148,3 +151,7 @@ summary {
 
 .qa ul {padding: 0;list-style: none;font-weight: bold;}
 .qa p { color: red}
+
+a {
+    color: #079d72;
+}

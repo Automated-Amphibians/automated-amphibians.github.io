@@ -1,5 +1,6 @@
 ---
 layout: content
+content-type: tutorial
 ---
 
 See [curriculum](/frc-survival-guide/aa-handbook/curriculum/coding-curriculum).

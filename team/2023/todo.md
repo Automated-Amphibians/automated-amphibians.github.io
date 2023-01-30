@@ -1,47 +1,43 @@
 ---
 layout: content
 ---
+Last updated: Jan 30th, 12pm
 
 ### Robot Tasks
-* Can be done immediately    
-    * Chassis: Loctite Swerve Screws
-    * Chassis: Design in CAD/Decide Dimensions
-    * Bellypan: Decide dimensions, how it will be fastened    
-    * Electronics: Finish Crimping motor controllers/motors
-    * Electronics: Update motor controllers with latest firmware & label CAN ids        
-    * Electronics: Wire new battery, check charge on others
-    * Electronics: Cut Anderson Powerpole connectors
-    * Electronics: Update Roborio software with latest image    
-    * Mechanism: Create required parts list for everybot    
-    * Bumper: Design/Learn/Decide how it will attach to frame
+* Can be done immediately
+    * Bellypan: Wire components (CAN Network, Radio, Voltage Regulator, )
+    * Bellypan: Add polycarb bottom        
+    * Bellypan: Cut out space for battery and wiring
+    * Mechanism: Figure out how to attach to chassis/drivetrain
+    * Electronics: Wire new battery, check charge on others 
+    * Electronics: Update Roborio software with latest image
+    * Electronics: Program Radio    
+    * Bumper: Build and attach bumper    
     * Coding: Talk about how drivetrain, swervemodules, kinematics and odometry all work together
     * Coding: Break down basics of PID
-    * Coding: Import Basic Swerve Functionality, update motor controllers, constants    
-    * Coding: Create stubs for basic functionality -- split into teams?
-    * Coding: Update to latest 2023 version of wpilib
+    * Coding: Import Basic Swerve Functionality, update motor controllers, constants
+    * Coding: https://www.youtube.com/watch?v=0Xi9yb1IMyA
+    * Coding: Create stubs for basic functionality -- split into teams
         
-* Can be done with some information
-    * Chassis: Cut and Assemble
-    * Bellypan: Assemble 
-    * Bellypan: Wire components
-    * Bumper: Assemble 
+* Cannot be completed without more information, parts or other steps complete
+    * Bellypan: Increase height of bellypan by adding a 2x1 pipe on all four sides 
+    * Swerve: Test motors (requires wiring, updating of rio, programming of radio)    
     * Bumper: Fabric build (need to get to Chris, Miguel's Mom)
-    * Mechanism: Figure out how to attach to chassis/drivetrain
-    
 
 ### Administration
 * Can be done immediately    
     * Need a mentor to get "verified" by Novi (background check)    
     * Mentors Sign Up (Novi):
         * https://docs.google.com/forms/d/e/1FAIpQLSfuUMT7yH1jrWJqEtLaOg5G5JPKdHvIqM7CDjPb8UslOHR1eA/viewform    
-    * FEE: Fee Collection (6 of 10) (should be 7 of 10)    
+    * FEE: Need to turn into Ashley
     * SHIRTS: Get shirt sizes    
+    * Volunteer for event
+    * SHIRTS: Order non-sponsored t-shirts
 * Watching
     * FORMS: FIRST Registation/Waivers
     * FEE: (DONE) Fill out "permission" to collect fees  (ACCEPTED, WAITING FOR APPROVAL)
     * FORMS: Novi Workshop Safety Forms
 * Waiting on Other Tasks
-    * SHIRTS: Order (waiting on shirt sizes)
     * (AFTER FEE IS DONE) Novi Medical Waivers for Event
 * For later
     * Get setup for Volunteering Days Required (2 8 hour days for 2 people (or 32 hours -- or 16 half days if we get to 16 volunteers to build an arena))

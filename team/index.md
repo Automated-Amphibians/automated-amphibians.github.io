@@ -3,9 +3,10 @@ layout: content
 title: Amphibians Handbook
 ---
 
+Team related content.
+
 ### Links
-* [Next Meeting](/team/meetings/meeting-2023-01-10)
-* [Kickoff](/team/meetings/kickoff)
+
 * [Tutorials](/team/tutorials)
 * [Current Purchasing List](/team/purchasing-list)
 * [Code of Conduct](/team/code-of-conduct)

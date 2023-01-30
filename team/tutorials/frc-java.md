@@ -1,5 +1,6 @@
 ---
 layout: content
+content-type: tutorial
 ---
 
 [This tutorial assumes you know the basics about Java already.](java)
