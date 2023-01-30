@@ -17,7 +17,7 @@
                 
             </div>            
             <div class="col-lg-8">
-                <h1>{{ page.title }}</h1>
+                <h1>{{ page.title }}</h1>                
                 {{ content }}
             </div>
             <div class="col-lg-2"></div>
@@ -25,7 +25,21 @@
     </div>
     <div style="margin-bottom: 3em;">
     </div>
-       
-</body>
 
+    <script>
+        var countDownDate = new Date("Mar 9, 2023 16:37:52").getTime();
+        var now = new Date().getTime();
+        var timeleft = countDownDate - now;        
+        var days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
+        var weeks = (days / 7).toFixed(0);        
+        $("h1").after("<h2 style='color:#a00'>"+weeks+" weeks until competition!</h2>")        
+        var uplevel = location.pathname.substr(0, location.pathname.lastIndexOf("/"));
+        if (location.pathname.lastIndexOf("/") == location.pathname.length-1) {
+            uplevel = uplevel.substr(0, uplevel.lastIndexOf("/"));
+        }
+        $("h1").before("<a href='"+uplevel+"'>Parent</a>");
+        
+    </script>
+           
+</body>
 </html>

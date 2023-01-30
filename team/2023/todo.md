@@ -1,5 +1,6 @@
 ---
 layout: content
+content-type: team
 ---
 Last updated: Jan 30th, 12pm
 

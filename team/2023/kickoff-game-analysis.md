@@ -38,7 +38,7 @@ loading zone
 
 * What ways can you score?
 
-Linking 
+Linking, placing cones, driving out of area, balancing robot
 
 * At what rate can can you score during teleop? (if there are multiple methods, list each)
 
@@ -55,17 +55,20 @@ Linking
 26 points from charging station (1 rank point)-- auton and teleop are totaled toghert
 win your match 2 points, tie is one 1 point
 
-
 * How many rank points total can you get?    
 
-4
+Four
 
 * Do any type of rank points require more than one robot to achieve?
+
 Charging station requires two robots on the platform at some point
 
 * How can you prevent your opponent from scoring. (even if we don't do this, we need to plan against it)
 
+You can slow them down by crossing them in the center of the field?
+
 * What types of penalities are going to be significant in this game?
+
 Two yellow is a red
 - going into the opponents community area
 - messing with the opponents game pieces
@@ -75,17 +78,24 @@ page 47, 48
 
 * Where do the robots start on the field?
 
+In the community zone.
 
 * How long does it take to complete the "end" challenge (typically a climb, but not always)
+
 7-15 seconds
 
 * How much more are points in auto worth than robo?
-*answered*
+
+(answered)
 
 * Are certain parts of the field easier to score from than others?
 ground level vs. upper levels
 
+Each of the loading areas is pretty equivalent.
+
 * Are some parts of the field going to be hard to see from?
+
+The loading area is on the far side of the field.
 
 * Are there any chokehold strategies, or a strategy that insures your team will absolutely win? What rules prevent this?
 
@@ -93,7 +103,11 @@ the non-community areas will be bumping areas
 
 * Are there any situations where you may have to choose between a bonus ranking point and winning a qualification match?
 
+Not sure.
+
 * List at least one insight you think your peers might have missed. Explain in detail.
+
+Not sure.
 
 </div>
 

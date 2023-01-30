@@ -16,6 +16,7 @@ body {
     padding:0 0 0 2em;
     margin:0 0 .5em 10px;
     transition:.12s;
+    font-size: 115%;    
 }
 .bold-list li::before {
     position:absolute;
@@ -36,6 +37,7 @@ body {
     opacity:1; 
     text-shadow:0 0 4px;
     transition:.1s;
+    
 }      
 
 .page {            
