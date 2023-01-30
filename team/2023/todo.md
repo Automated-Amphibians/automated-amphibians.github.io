@@ -1,10 +1,9 @@
 ---
 layout: content
 content-type: team
+title: TODO
 ---
 Last updated: Jan 30th, 12pm
-
-## TODO
 
 #### Can be done immediately
 * Admin: Write letter for magna
