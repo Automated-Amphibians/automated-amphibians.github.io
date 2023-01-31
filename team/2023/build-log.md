@@ -2,7 +2,10 @@
 layout: content
 ---
 ### Jan 30th
-
+* Electronics: Update Roborio software with latest image
+* Electronics: Program Radio
+* Bumper: Work done
+* Admin: Write letter for magna
 
 ### Jan 28th
 Loaded firmware for Sparkmax controllers, finished wiring PDP (16-20x ferrule + anderson powerpole connectors made), velcroed on PDP, Sparkmaxes

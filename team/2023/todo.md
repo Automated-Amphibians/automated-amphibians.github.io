@@ -3,21 +3,19 @@ layout: content
 content-type: team
 title: TODO
 ---
-Last updated: Jan 30th, 12pm
+Last updated: Jan 31st, 12am
 
 #### Can be done immediately
-* Admin: Write letter for magna
-* Bellypan: Wire components (CAN Network, Radio, Voltage Regulator, Switch)
-* Electronics: Update Roborio software with latest image
-* Electronics: Program Radio
+* Bellypan: Wire components (CAN Network, ~~Radio~~, ~~Voltage Regulator~~, ~~Switch~~)
 * Bellypan: Add polycarb bottom        
 * Coding: Import Basic Swerve Functionality, update motor controllers, constants
 * Coding: Create stubs for basic functionality -- split into teams    
 * Bumper: Build and attach bumper    
-
+* Bellypan: Design/Cut out space for battery and wiring
+* Bumper: Fabric build/number application (mentor Chris from FF will assist)
+* Mechanism: Begin reading instructions, learn how to build    
 
 #### Can be done immediately, but are not the priority
-* Bellypan: Cut out space for battery and wiring
 * Mechanism: Figure out how to attach to chassis/drivetrain
 * Electronics: Wire new battery, check charge on others
 * Coding: Talk about how drivetrain, swervemodules, kinematics and odometry all work together
@@ -25,8 +23,6 @@ Last updated: Jan 30th, 12pm
         
 #### Cannot be completed without more information, parts or other steps complete
 * Bellypan: Increase height of bellypan by adding a 2x1 pipe on all four sides
-* Swerve: Test motors (requires wiring, updating of rio, programming of radio)
-* Bumper: Fabric build/number application
 
 ### Administration
 * Can be done immediately    
@@ -34,9 +30,9 @@ Last updated: Jan 30th, 12pm
     * Mentors Sign Up (Novi):
         * https://docs.google.com/forms/d/e/1FAIpQLSfuUMT7yH1jrWJqEtLaOg5G5JPKdHvIqM7CDjPb8UslOHR1eA/viewform    
     * FEE: Need to turn into Ashley
-    * SHIRTS: Get shirt sizes    
-    * Volunteer for event
+    * SHIRTS: Get shirt sizes        
     * SHIRTS: Order non-sponsored t-shirts
+    * Update financials based on what Janelle sent and new orders    
 * Watching
     * FORMS: FIRST Registation/Waivers
     * FEE: (DONE) Fill out "permission" to collect fees  (ACCEPTED, WAITING FOR APPROVAL)
