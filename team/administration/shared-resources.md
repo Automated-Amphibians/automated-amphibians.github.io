@@ -1,13 +1,11 @@
 ---
 layout: content
 ---
-
 * Tee nuts
 * Anderson connectors/contacts
 * Birch wood
 * 2x1 aluminum (we used scrap)
 * Neo Motors/controllers
-
 * Polycarb?
 
 Things we definitely were allowed to borrow

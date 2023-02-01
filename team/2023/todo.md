@@ -3,14 +3,14 @@ layout: content
 content-type: team
 title: TODO
 ---
-Last updated: Jan 31st, 12am
+Last updated: Feb 1st, 4pm
 
 #### Can be done immediately
-* Bellypan: Wire components (CAN Network, ~~Radio~~, ~~Voltage Regulator~~, ~~Switch~~)
-* Bellypan: Add polycarb bottom        
+* Electronics -- velcro/screw everything down
+* Bumper: Build and attach bumper (attach pool noodles)
+* Bellypan: Add polycarb bottom 
 * Coding: Import Basic Swerve Functionality, update motor controllers, constants
-* Coding: Create stubs for basic functionality -- split into teams    
-* Bumper: Build and attach bumper    
+* Coding: Create stubs for basic functionality -- split into teams
 * Bellypan: Design/Cut out space for battery and wiring
 * Bumper: Fabric build/number application (mentor Chris from FF will assist)
 * Mechanism: Begin reading instructions, learn how to build    

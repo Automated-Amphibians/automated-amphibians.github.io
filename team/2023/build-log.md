@@ -1,6 +1,11 @@
 ---
 layout: content
 ---
+### Jan 31st
+* Bumper screw mounts placed?
+* Swerve motors and motor controllers tested and CAN properly wired
+* Bellypan/ceiling design CAD work
+
 ### Jan 30th
 * Electronics: Update Roborio software with latest image
 * Electronics: Program Radio

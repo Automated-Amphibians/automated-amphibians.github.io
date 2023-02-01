@@ -16,6 +16,19 @@ https://www.youtube.com/watch?v=2D3LOCGfEc4
 
 https://www.mathworks.com/help/control/ug/two-degree-of-freedom-2-dof-pid-controllers.html
 
+### How does the match look from the drivers perspective?
+Also read 6.1.3
+
+You're staged in a queueing area right behind the driver area. After the preceding match ends, those drivers pick up their stations and you can put yours down, while the rest of the drive team gets the robot placed on the field and turned on. You can select auto modes during that time. You can watch some of the top-down stream videos to watch what all happens between matches.
+
+You're standing behind the line for auto. After auto ends, there's a bell, and the drivers can step forward and pick up controllers. The field automatically manages all the modes and stuff, so auton will just run when everything is ready and the field/GA counts down. Driver station is often just a tray with a laptop, charger, and controller/gamepad sitting on it. 
+
+https://www.youtube.com/watch?v=YwFJ4Tk3wKM
+https://www.youtube.com/watch?v=69hDwCe8smE&t=77s
+https://www.youtube.com/watch?v=fBtGWijXizI
+https://www.youtube.com/watch?v=riPvXtiG75w
+
+
 ### Discussion of scouting
 
 For comparison sake, this is what I think Frog Force is going to be looking for when we select our alliance partners (and the top teams at your events should be similar).  At this point, we don't care if a team scores only one kind of piece, although diversity is always better.  There are 6 spots to score cubes and 12 to score cones, and 9 where either one can be scored.  Very good teams might be scoring 8-10 in a match, so nobody should run out of spots to score. I think we optimistically calculated every robot can technically score as many as 7-8 during teleop, but even if everyone scores one during auton, there's no shortage of space. I am curious to see how many single game piece type robots there are, and what type it will be. I'm sure if the everybot is only one type (which seems logical), then that could dominate.
