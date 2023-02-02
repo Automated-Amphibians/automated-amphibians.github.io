@@ -6,9 +6,8 @@ title: TODO
 Last updated: Feb 1st, 4pm
 
 #### Can be done immediately
-* Electronics -- velcro/screw everything down
 * Bumper: Build and attach bumper (attach pool noodles)
-* Bellypan: Add polycarb bottom 
+* Bellypan: Add polycarb bottom -- (cut, not added)
 * Coding: Import Basic Swerve Functionality, update motor controllers, constants
 * Coding: Create stubs for basic functionality -- split into teams
 * Bellypan: Design/Cut out space for battery and wiring

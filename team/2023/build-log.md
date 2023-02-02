@@ -1,6 +1,9 @@
 ---
 layout: content
 ---
+### Feb 1st
+* Electronics -- velcro/screw everything down
+
 ### Jan 31st
 * Bumper screw mounts placed?
 * Swerve motors and motor controllers tested and CAN properly wired
