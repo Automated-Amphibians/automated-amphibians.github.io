@@ -2,13 +2,14 @@
 layout: content
 ---
 ### Feb 5th Mon
-* Integrated CAD model more in place
-* Some additional tweaks put in place for 
+* More work done on cad to figure out how mechanism will be placed on top -- widened mechanism
+* Absolute encoder and motor controllers mapped to correct values, first attempt at driving straight
 
 ### Feb 3rd Sat
 * More bumper work -- ready to mount
-* battery and other parts moved to top
-* Lots of work done on cad to figure out how mechanism will be placed on top
+* Battery and other parts moved to top
+* Work done on cad to figure out how mechanism will be placed on top
+* Added absolute encoder
 
 ### Feb 3rd Fri
 * More bumper work -- foam placed

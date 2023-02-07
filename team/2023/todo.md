@@ -6,12 +6,12 @@ title: TODO
 Last updated: Feb 7th 12pm
 
 #### Can be done immediately
-* Coding: Import Basic Swerve Functionality, update constants in order to get the robot to drive straight
+* Coding: Update constants in order to get the robot to drive straight, glue magnets in
+* Coding: Shuffleboard, NavX exploration, motor controller (use "extra" robot)
 * Bumper: Build and attach bumper (attach pool noodles)
-* Coding: Shuffleboard, NavX exporation
-* Coding: Create stubs for basic functionality -- split into teams
-* Bellypan: Add polycarb bottom -- (cut, not added) -- use piano hinge, flat screws
 * Mechanism: Read instructions, start organizing parts, copy and paste cut list, review 90 degree angle
+* Bellypan: Add polycarb bottom -- (cut, not added) -- use piano hinge, flat screws
+* Coding: Create stubs for basic functionality -- split into teams
 
 #### Can be done immediately, but are not the priority
 * Bumper: Fabric build/number application (mentor Chris from FF will assist) -- not back until 
