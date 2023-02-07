@@ -1,8 +1,25 @@
 ---
 layout: content
 ---
-### Feb 1st
+### Feb 5th Mon
+* Integrated CAD model more in place
+* Some additional tweaks put in place for 
+
+### Feb 3rd Sat
+* More bumper work -- ready to mount
+* battery and other parts moved to top
+* Lots of work done on cad to figure out how mechanism will be placed on top
+
+### Feb 3rd Fri
+* More bumper work -- foam placed
+
+### Feb 2nd (thu)
+* Bumper work?
+
+### Feb 1st (wed)
 * Electronics -- velcro/screw everything down
+* First test with new Swerve library
+* Cut baseplate?
 
 ### Jan 31st
 * Bumper screw mounts placed?

@@ -19,6 +19,7 @@ https://www.mathworks.com/help/control/ug/two-degree-of-freedom-2-dof-pid-contro
 ### How does the match look from the drivers perspective?
 Also read 6.1.3
 
+#### Answer 1
 You're staged in a queueing area right behind the driver area. After the preceding match ends, those drivers pick up their stations and you can put yours down, while the rest of the drive team gets the robot placed on the field and turned on. You can select auto modes during that time. You can watch some of the top-down stream videos to watch what all happens between matches.
 
 You're standing behind the line for auto. After auto ends, there's a bell, and the drivers can step forward and pick up controllers. The field automatically manages all the modes and stuff, so auton will just run when everything is ready and the field/GA counts down. Driver station is often just a tray with a laptop, charger, and controller/gamepad sitting on it. 
@@ -27,6 +28,27 @@ https://www.youtube.com/watch?v=YwFJ4Tk3wKM
 https://www.youtube.com/watch?v=69hDwCe8smE&t=77s
 https://www.youtube.com/watch?v=fBtGWijXizI
 https://www.youtube.com/watch?v=riPvXtiG75w
+
+#### Answer 2
+I'll try to give a bit of a walk through of what a match looks like setup-wise from the drive team. 
+
+During each event, you'll see that you have a match via your provided schedule, and you'll start bringing the robot and drivers station (we just used a laptop and two playstation controllers) over to the queueing area before it. This will vary by event, but it will be well labeled and pointed out to you in the driver's meeting (more info later). 
+
+There will be a volunteer with a clipboard called the queuer, who you will check in with by just saying your team number. You'll wait in queue until it's your time to load onto the field, which will be indicated by the queuer. From here, our drive team split up. 
+
+For loading the Robot on the field: Three drive team members carried the robot from the cart onto the field, set it down on the carpet, turned it on, and loaded the game piece.
+
+For drivers station (me!): I took the laptop and controllers over to the driver's station (shelf behind the glass), plugged in the controllers and field ethernet cable, turned on the laptop and booted up Drivers Station (DS). Always close out of DS after every match, it prevents Issues™️. 
+
+After the robot is set on the field, the entire drive team met me behind the glass, and the auto routines were selected. This could have been done by me at any point after DS was loaded, to clarify.
+
+After we established that the laptop and robot are connected, we set the controllers in an easily grab-able location on the shelf for when Teleop starts. At this point, the Game Announcer will probably start running through the teams and robots. If at any point during this process you have technical issues, you can flag over an FTA or FTAA who will help you (if you're not connected soon, they'll most likely just show up anyways).
+For the match to start, all drive team members must be behind the line (tape on the ground), then the Refs will start giving thumbs up to the Head Ref, and the match will begin! Auto routines will be initiated by the field, so you don't need to do anything for that. This year is different with when you can grab the controllers (review the rules carefully for that), but I believe you should be able to have them in hand when teleop starts. There will be an auditory and visual cue to indicate teleop start, and you're off to the races. 
+
+Once the match ends, its the reverse process: Close DS and unplug the field ethernet while other members start taking the robot off the field. Your technician will have the robot cart during the match and will be directed to the unloading side of the field, typically the side with the scorekeeper's table, right before the match ends.
+One thing about all this: There will be a drive team meeting the first morning of each event where one of the Volunteers (Head Ref iirc) goes over general logistics and things specific to each venue. If at any point you are confused or want clarification, ask! Everyone wants you to have fun and knows what its like to go to your first comp, so they'll be very friendly.
+
+VERY IMPORTANT TO GOTO DRIVER MEETING
 
 
 ### Discussion of scouting
