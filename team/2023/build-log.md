@@ -1,11 +1,29 @@
 ---
 layout: content
 ---
-### Feb 5th Mon
+### Feb 10th Fri
+
+
+### Feb 9th Thu
+* Got swerve working -- I think
+* Attached bumper holders
+* Cut first pieces of gamespec/mechanism
+
+### Feb 8th Wed
+* Struggled with Swerve
+* More CAD work?
+
+### Feb 7th Tue
+* Try to keep everyone busy - can't even remember what we managed to get done
+* Let other mentors work on swerve coding
+* Organized and went through parts list -- ordered couple missing items
+
+### Feb 6th Mon
 * More work done on cad to figure out how mechanism will be placed on top -- widened mechanism
 * Absolute encoder and motor controllers mapped to correct values, first attempt at driving straight
+* Handed off bumper to Chris for fabric work
 
-### Feb 3rd Sat
+### Feb 4rd Sat
 * More bumper work -- ready to mount
 * Battery and other parts moved to top
 * Work done on cad to figure out how mechanism will be placed on top

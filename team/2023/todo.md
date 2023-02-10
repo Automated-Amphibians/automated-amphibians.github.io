@@ -15,8 +15,8 @@ Last updated: Feb 7th 12pm
 
 #### Can be done immediately, but are not the priority
 * Bumper: Fabric build/number application (mentor Chris from FF will assist) -- not back until 
-* Mechanism: Figure out how to attach to chassis/drivetrain
-* Electronics: Wire new battery, check charge on others
+* Mechanism: Figure out how to attach to chassis/drivetrain (in progress)
+* Electronics: Wire new battery, check charge on others (M5 Bolts)
 * Coding: Talk about how drivetrain, swervemodules, kinematics and odometry all work together
 * Coding: https://www.youtube.com/watch?v=0Xi9yb1IMyA
         
