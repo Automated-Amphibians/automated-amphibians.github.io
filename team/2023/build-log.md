@@ -1,11 +1,27 @@
 ---
 layout: content
 ---
-### Feb 10th Fri
+### Feb 11th Sat
+* Coding: Update constants in order to get the robot to drive straight, glue magnets in 
+* Cutlist updated with correct instructions -- plan formulated for keeping everyone building - Nathan and Srinivas will coordinate
+* Bumper: Fabric build/number application (mentor Chris from FF will assist) -- not back until 
 
+Swerve is mostly working. The motors move in the same direction, but when asked to do an in place rotation, it does the opposite of what it should do.
+
+So, what could be happening is that we are literally driving backwards (likely) by using the turn encoder (which is the absolute encoder) and the drive encoders reversed. 
+
+Incidentally, most swerve drives are left (counter-clockwise) is positive, right (clockwise) is negative. 
+
+https://compendium.readthedocs.io/en/latest/tasks/drivetrains/swerve.html
+
+I've calibrated zero to the back, instead of the front. We've corrected for this by reversing the turnign and drive motors. I tried calibrating the backwards
+to 0.5, or 180 already, but I didn't reverse the turning and drive motors appropriately. Do that and it should hopefully properly orient in place orientation.
+
+### Feb 10th Fri
+* More pieces of the gamespec cut
 
 ### Feb 9th Thu
-* Got swerve working -- I think
+* Swerve working, need to get offsets properly completed
 * Attached bumper holders
 * Cut first pieces of gamespec/mechanism
 

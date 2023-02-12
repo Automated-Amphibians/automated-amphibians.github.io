@@ -6,32 +6,34 @@ title: TODO
 Last updated: Feb 7th 12pm
 
 #### Can be done immediately
-* Coding: Update constants in order to get the robot to drive straight, glue magnets in
+* Build: Bellypan polycarbonate on temporarily for driving test -- no ramp driving
+* Mechanism: Build gearing, attachment hardware, COTS parts
+* Coding: Need to reverse the turn motors, and flip the zero heading on the robot.
 * Coding: Shuffleboard, NavX exploration, motor controller (use "extra" robot)
-* Bumper: Build and attach bumper (attach pool noodles)
-* Mechanism: Read instructions, start organizing parts, copy and paste cut list, review 90 degree angle
-* Bellypan: Add polycarb bottom -- (cut, not added) -- use piano hinge, flat screws
-* Coding: Create stubs for basic functionality -- split into teams
+* Electrical: Wire new battery, check charge on others (M5 Bolts)
 
 #### Can be done immediately, but are not the priority
-* Bumper: Fabric build/number application (mentor Chris from FF will assist) -- not back until 
-* Mechanism: Figure out how to attach to chassis/drivetrain (in progress)
-* Electronics: Wire new battery, check charge on others (M5 Bolts)
+* Build: Increase height of ceiling by adding a 2x1 pipe on all four sides -- added housing for roborio
+* Bumper: Attach bumper for verification purposes
 * Coding: Talk about how drivetrain, swervemodules, kinematics and odometry all work together
 * Coding: https://www.youtube.com/watch?v=0Xi9yb1IMyA
         
 #### Cannot be completed without more information, parts or other steps complete
-* Bellypan: Increase height of bellypan by adding a 2x1 pipe on all four sides
+* Bellypan: Add polycarb bottom -- (cut, not added) -- use piano hinge, flat screws -- needs increase ceiling height
+* Bumper/Chassis -- Added carrying handles (required)
+* Coding: Autonomous -- discuss how Shuffleboard works
+
+#### Extra
+* https://docs.revrobotics.com/sparkmax/operating-modes/alternate-encoder-mode
+* Upgrade the robot carrier
 
 ### Administration
 * Can be done immediately    
     * Need a mentor to get "verified" by Novi (background check)    
     * Mentors Sign Up (Novi):
         * https://docs.google.com/forms/d/e/1FAIpQLSfuUMT7yH1jrWJqEtLaOg5G5JPKdHvIqM7CDjPb8UslOHR1eA/viewform    
-    * FEE: Need to turn into Ashley
-    * SHIRTS: Get shirt sizes        
-    * SHIRTS: Order non-sponsored t-shirts
     * Update financials based on what Janelle sent and new orders    
+    * Need to track volunteering
 * Watching
     * FORMS: FIRST Registation/Waivers
     * FEE: (DONE) Fill out "permission" to collect fees  (ACCEPTED, WAITING FOR APPROVAL)
