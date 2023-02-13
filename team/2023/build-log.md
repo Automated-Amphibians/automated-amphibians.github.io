@@ -4,7 +4,7 @@ layout: content
 ### Feb 11th Sat
 * Coding: Update constants in order to get the robot to drive straight, glue magnets in 
 * Cutlist updated with correct instructions -- plan formulated for keeping everyone building - Nathan and Srinivas will coordinate
-* Bumper: Fabric build/number application (mentor Chris from FF will assist) -- not back until 
+* Bumper: Fabric build/number application (mentor Chris from FF will assist) 
 
 Swerve is mostly working. The motors move in the same direction, but when asked to do an in place rotation, it does the opposite of what it should do.
 

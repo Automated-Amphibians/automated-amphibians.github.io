@@ -6,26 +6,30 @@ title: TODO
 Last updated: Feb 7th 12pm
 
 #### Can be done immediately
-* Build: Bellypan polycarbonate on temporarily for driving test -- no ramp driving
+* Build: Bellypan polycarbonate on temporarily for driving test -- no ramp driving - bumper?
 * Mechanism: Build gearing, attachment hardware, COTS parts
 * Coding: Need to reverse the turn motors, and flip the zero heading on the robot.
-* Coding: Shuffleboard, NavX exploration, motor controller (use "extra" robot)
+* Coding: NavX exploration, motor controller (use "extra" robot)
 * Electrical: Wire new battery, check charge on others (M5 Bolts)
+* Build: Increase height of ceiling by adding a 2x1 pipe on all four sides -- added housing for roborio
+* Build: Cut additional parts for mechanism
+* Marketing: Design tension plate logos/team customizations
+    * Note on rules regarding LEDs - https://www.chiefdelphi.com/t/led-lights-on-robot/359071/3
 
 #### Can be done immediately, but are not the priority
-* Build: Increase height of ceiling by adding a 2x1 pipe on all four sides -- added housing for roborio
-* Bumper: Attach bumper for verification purposes
 * Coding: Talk about how drivetrain, swervemodules, kinematics and odometry all work together
-* Coding: https://www.youtube.com/watch?v=0Xi9yb1IMyA
+    * https://www.youtube.com/watch?v=0Xi9yb1IMyA
         
 #### Cannot be completed without more information, parts or other steps complete
+* Bumper: Attach bumper for verification purposes (not available yet)
 * Bellypan: Add polycarb bottom -- (cut, not added) -- use piano hinge, flat screws -- needs increase ceiling height
-* Bumper/Chassis -- Added carrying handles (required)
-* Coding: Autonomous -- discuss how Shuffleboard works
+* Bumper/Chassis -- Design plan to add carrying handles 
+* Coding: Autonomous mode
+* Coding: Shuffleboard, select autonomous mode
 
-#### Extra
-* https://docs.revrobotics.com/sparkmax/operating-modes/alternate-encoder-mode
-* Upgrade the robot carrier
+#### 
+* Plug Absolute Encoder into Alternate Encoder - https://docs.revrobotics.com/sparkmax/operating-modes/alternate-encoder-mode
+* RobotCarrier - Design an Upgrade 
 
 ### Administration
 * Can be done immediately    
