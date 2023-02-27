@@ -1,6 +1,41 @@
 ---
 layout: content
 ---
+### Feb 26th Sun (rare!)
+Shoulder problems totally fixed, arms completed, intake resized and attached, tensioner plate installed
+
+### Feb 25th Sat
+Frame rebuild, arm attached, (shoulder problems mostly figured out)
+
+### Feb 24th Fri
+Frame nearly rebuilt
+
+### Feb 23rd Thu
+Started reading the instructions, watching the videos, geez that helps a lot. Frame rebuild worked on
+
+### Feb 22rd Wed - power outages
+Frame complete - UH OH, as built, components will be outside of frame, need to rebuild
+Intake finished, at home by Nathan
+
+### Feb 21th Tue (long day)
+More swerve driving, locking down components because they are flying off
+Intake being worked on
+
+### Feb 20th Mon (long day)
+Grabbed sheet metal from alro, screws, lots of building -- swerve started driving
+
+### Feb 18th Sat
+Wiring finally complete
+
+### Feb 16th Thu
+Frame done, start rewiring (not sure if this is the day we started)
+
+### Feb 14-15th Tue/Wed
+Bumpers were completed.
+
+### Feb 13th Mon
+Got new frame stuff, started on framing etc. 
+
 ### Feb 11th Sat
 * Coding: Update constants in order to get the robot to drive straight, glue magnets in 
 * Cutlist updated with correct instructions -- plan formulated for keeping everyone building - Nathan and Srinivas will coordinate
@@ -16,6 +51,10 @@ https://compendium.readthedocs.io/en/latest/tasks/drivetrains/swerve.html
 
 I've calibrated zero to the back, instead of the front. We've corrected for this by reversing the turnign and drive motors. I tried calibrating the backwards
 to 0.5, or 180 already, but I didn't reverse the turning and drive motors appropriately. Do that and it should hopefully properly orient in place orientation.
+
+Might be good to start with 
+* What angle does the "spin in place" algorithm want?
+* What direction does our current encoder work off of?
 
 ### Feb 10th Fri
 * More pieces of the gamespec cut

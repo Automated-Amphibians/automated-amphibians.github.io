@@ -1,6 +1,13 @@
 ---
 layout: content
 ---
+* Rivnuts
+* Tread
+* Batteries?
+* 
+
+
+
 #8 = 8/32 (versaframe)
 #10 = 10/32 ()
 
@@ -12,12 +19,19 @@ layout: content
 Excellent pricing on powerpole connectors
 https://powerwerx.com/anderson-power-powerpole-sb-connectors
 
+https://www.amazon.com/221-2401-WAGO-Lever-Nuts%C2%AE-2-Conductor-Transparent/dp/B0BKR2SR7H/ref=sr_1_3?crid=2HVJ5JY8T8WGD&keywords=wago+221+2401&qid=1677470924&sprefix=wago+221+240%2Caps%2C99&sr=8-3
+
+Hrm, not so sure.
+
 ### Fasteners
 Bolts in general: 
 
 boltdepot and amazon
 
 https://www.boltdepot.com/fastener-information/rivets/understanding-blind-rivet-sizing.aspx
+
+https://arrowfastener.com/wp-content/uploads/2017/09/RT187M-Rivet-Guide.pdf
+
 
 ### Framing
 Steel is pretty close to aluminum prices, possibly even more expensive.

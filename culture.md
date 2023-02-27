@@ -1,3 +1,12 @@
+# Core Values (stolen from FLL)
+* We are a team - inclusive, and involve everyone
+* Gain new skills by doing the work
+* Mentors don't have all the answers, we learn together
+* Spirit of friendly competition
+* Discovery and teamwork is more important than what we win
+* Share and give back to other teams
+* Have fun, celebrate victories
+
 # How to Work
 * Make a Plan/Prepare
 * Good Habits - Eliminate Distractions
@@ -31,6 +40,17 @@
 * Planning
 * Document
 * Exercize
+
+https://builtin.com/company-culture/positive-work-culture
+https://www.lumapps.com/employee-experience/how-to-build-company-culture/
+
+# Key things to build culture
+* Traditions
+* Mottos, beliefs, memes (cultural language)
+* Standards, Goals ()
+* Belonging is built by involving everyone, (get input!) - relationships
+    * Have fun together
+* Recognition, remind everyone that what they do matters
 
 
 If it doesn’t challenge you, it doesn’t change you.

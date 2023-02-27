@@ -3,40 +3,59 @@ layout: content
 content-type: team
 title: TODO
 ---
-Last updated: Feb 7th 12pm
+Last updated: Feb 26th 
 
 #### Can be done immediately
-* Build: Bellypan polycarbonate on temporarily for driving test -- no ramp driving - bumper?
-* Mechanism: Build gearing, attachment hardware, COTS parts
-* Coding: Need to reverse the turn motors, and flip the zero heading on the robot.
-* Coding: NavX exploration, motor controller (use "extra" robot)
-* Electrical: Wire new battery, check charge on others (M5 Bolts)
-* Build: Increase height of ceiling by adding a 2x1 pipe on all four sides -- added housing for roborio
-* Build: Cut additional parts for mechanism
+* Build: Add chain drive and motor to robot
+* Build: [Add tension wires with adjusters](https://youtu.be/rltMrhk1spM?t=7062), [also](https://www.youtube.com/watch?v=Y3frFlVkLmc&list=PLrna2STRqYY87NvF51rnfGlbh-su3NSHM&index=32&t=2301s)
+* Build: [Add polywall to the intake](https://youtu.be/cAuw28GBfac?t=5149) -- you need to adjust the width because our robot is bigger
+    * [Consider making the height bigger than 5ish inches](https://youtu.be/HqV5bPj1rbc?t=752)
+* Build: [Grind down/cut motor shaft](https://youtu.be/cAuw28GBfac?t=6659)
+* Build: Add hardstops and 
+    * [Attach U-Bolts](https://www.youtube.com/watch?v=Y3frFlVkLmc&list=PLrna2STRqYY87NvF51rnfGlbh-su3NSHM&index=32&t=137s). NOTE! U-bolts at top are already attached, skip that step
+    * [Add nylon cord as hard stops](https://www.youtube.com/watch?v=Y3frFlVkLmc&list=PLrna2STRqYY87NvF51rnfGlbh-su3NSHM&index=32&t=3126s)
+    * Add badge clips too
+    * This step needs a high level of customization! Please get mentor Chris
+* Build: [Add surgical tubing](https://www.youtube.com/watch?v=Y3frFlVkLmc&list=PLrna2STRqYY87NvF51rnfGlbh-su3NSHM&index=31&t=4724s)
+* Build: Add in weight?
+* Competition Prep: Who will be taking care of?
+    * Batteries
+    * Inspecting and fixing wiring
+    * Inspecting and fixing mechanical
+* Competition Prep: Who are the five reps on the field
+    * Two drivers, a drive coach, human player, and technician
+* Competition Prep: Figure out how we are going to transport robot on game day
+* Coding: add 180 capability
+* Coding: turn while extended prevention
+* Coding: Fix field driving
+* Coding: Code/Test braking
+* Coding: Create ability to X on stop
 * Marketing: Design tension plate logos/team customizations
-    * Note on rules regarding LEDs - https://www.chiefdelphi.com/t/led-lights-on-robot/359071/3
+    * Now we need to put it on the robot
 
 #### Can be done immediately, but are not the priority
-* Coding: Talk about how drivetrain, swervemodules, kinematics and odometry all work together
-    * https://www.youtube.com/watch?v=0Xi9yb1IMyA
-        
-#### Cannot be completed without more information, parts or other steps complete
-* Bumper: Attach bumper for verification purposes (not available yet)
-* Bellypan: Add polycarb bottom -- (cut, not added) -- use piano hinge, flat screws -- needs increase ceiling height
 * Bumper/Chassis -- Design plan to add carrying handles 
-* Coding: Autonomous mode
+* Build: [Add driver chain to the side](https://www.youtube.com/watch?v=rltMrhk1spM&list=PLrna2STRqYY87NvF51rnfGlbh-su3NSHM&index=30&t=98s)
+* Build: Add camera?
+* Build: [Add double game element carry protection](https://youtu.be/HqV5bPj1rbc?t=1246)
+
+#### Cannot be completed without more information, parts or other steps complete
+* Coding: Autonomous mode - in and out of zone
 * Coding: Shuffleboard, select autonomous mode
+* Coding: Autonomous mode - run up the ramp and break
 
 #### 
 * Plug Absolute Encoder into Alternate Encoder - https://docs.revrobotics.com/sparkmax/operating-modes/alternate-encoder-mode
 * RobotCarrier - Design an Upgrade 
+* Coding: Talk about how drivetrain, swervemodules, kinematics and odometry all work together
+    * https://www.youtube.com/watch?v=0Xi9yb1IMyA
+
 
 ### Administration
 * Can be done immediately    
-    * Need a mentor to get "verified" by Novi (background check)    
     * Mentors Sign Up (Novi):
         * https://docs.google.com/forms/d/e/1FAIpQLSfuUMT7yH1jrWJqEtLaOg5G5JPKdHvIqM7CDjPb8UslOHR1eA/viewform    
-    * Update financials based on what Janelle sent and new orders    
+    * Update financials based on what Janelle sent and new orders 
     * Need to track volunteering
 * Watching
     * FORMS: FIRST Registation/Waivers
