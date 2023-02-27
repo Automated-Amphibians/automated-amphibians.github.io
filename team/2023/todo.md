@@ -5,11 +5,9 @@ title: TODO
 ---
 Last updated: Feb 26th 
 
-#### Can be done immediately
-* CAD+Build: Add chain drive and motor to robot
+#### Must be done before driving
+* CAD+Build: Add chain drive and motor to robot 
 * Build: [Add tension wires with adjusters](https://youtu.be/rltMrhk1spM?t=7062), [also](https://www.youtube.com/watch?v=Y3frFlVkLmc&list=PLrna2STRqYY87NvF51rnfGlbh-su3NSHM&index=32&t=2301s)
-* Build: [Add polywall to the intake](https://youtu.be/cAuw28GBfac?t=5149) -- you need to adjust the width because our robot is bigger
-    * [Consider making the height bigger than 5ish inches](https://youtu.be/HqV5bPj1rbc?t=752)
 * Build: [Grind down/cut motor shaft](https://youtu.be/cAuw28GBfac?t=6659)
 * Build: Add Hardstops
     * [Attach U-Bolts](https://www.youtube.com/watch?v=Y3frFlVkLmc&list=PLrna2STRqYY87NvF51rnfGlbh-su3NSHM&index=32&t=137s). NOTE! U-bolts at top are already attached, skip those particular 
@@ -17,9 +15,14 @@ Last updated: Feb 26th
     * Add badge clips too
     * This step needs a high level of customization! Please get mentor Chris
 * Build: [Add surgical tubing](https://www.youtube.com/watch?v=Y3frFlVkLmc&list=PLrna2STRqYY87NvF51rnfGlbh-su3NSHM&index=31&t=4724s)
+* Build: [Wire the intake motor](https://www.youtube.com/watch?v=6Tk_cv8Iqrs&list=PLrna2STRqYY87NvF51rnfGlbh-su3NSHM&index=35&t=12554s)
+* Build: [Add polywall to the intake](https://youtu.be/cAuw28GBfac?t=5149) -- you need to adjust the width because our robot is bigger
+    * [Consider making the height bigger than 5ish inches](https://youtu.be/HqV5bPj1rbc?t=752)
+
+#### ASAP
 * CAD+Build: Design in Weight/Ballasts
 * Build: Verify that we are in bounds - snip edges of robot?
-* Build: [Wire the intake motor](https://www.youtube.com/watch?v=6Tk_cv8Iqrs&list=PLrna2STRqYY87NvF51rnfGlbh-su3NSHM&index=35&t=12554s)
+* Build: Cut up the allen wrench to be able to work on tight fitting swerve screw
 * Competition Prep: Who will be taking care of?
     * Batteries
     * Inspecting and fixing wiring
