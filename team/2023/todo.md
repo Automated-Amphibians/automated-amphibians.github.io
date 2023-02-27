@@ -7,6 +7,7 @@ Last updated: Feb 26th
 
 #### Must be done before driving
 * CAD+Build: Add chain drive and motor to robot 
+    * [Build max-planetary drive with the NEO](https://www.youtube.com/watch?v=M3uNb1OkXao&t=2115s) Ignore the bits about how they will be installed on the robot
 * Build: [Add tension wires with adjusters](https://youtu.be/rltMrhk1spM?t=7062), [also](https://www.youtube.com/watch?v=Y3frFlVkLmc&list=PLrna2STRqYY87NvF51rnfGlbh-su3NSHM&index=32&t=2301s)
 * Build: [Grind down/cut motor shaft](https://youtu.be/cAuw28GBfac?t=6659)
 * Build: Add Hardstops
