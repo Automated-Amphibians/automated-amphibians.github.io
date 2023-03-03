@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>AA8426 - {{ page.title }}</title>
+    {% include head.html %}
+    
+</head>
+
+<body class="{{ page.content-type }}">
+      
+     
+    {{ content }}
+
+    <script>
+        var countDownDate = new Date("Mar 9, 2023 16:37:52").getTime();
+        var now = new Date().getTime();
+        var timeleft = countDownDate - now;                
+        var days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
+        var weeks = (days / 7).toFixed(0);        
+        days = days - (3 * weeks);
+
+        // show a link to the parent -- a breadcrumb would be better
+        if (location.pathname.substr(0, 5) == "/team") {
+            var uplevel = location.pathname.substr(0, location.pathname.lastIndexOf("/"));
+            if (location.pathname.lastIndexOf("/") == location.pathname.length-1) {
+                    uplevel = uplevel.substr(0, uplevel.lastIndexOf("/"));                
+                }
+            $("h1").before("<a href='"+uplevel+"' class='no-print'>Parent</a>");
+        }
+
+        // we need to keep focused! -- show how many weeks until competition
+        if (location.pathname.substr(0, 10) == "/team/2023") {
+            $("h1").after("<h2 title='Assuming we work 4 days a week.' style='color:#a00' class='no-print'>"+days+" working days until competition!</h2>")        
+            //$("h1").after("<h2 style='color:#a00' class='no-print'>"+days+" working days until competition!</h2>")        
+            //$("h1").after("<h2 style='color:#a00' class='no-print'>"+(days*4)+" working hours until competition!</h2>")        
+        }
+        
+        
+    </script>
+           
+</body>
+</html>

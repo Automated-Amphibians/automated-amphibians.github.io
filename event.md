@@ -1,8 +1,9 @@
 ---
 layout: flat
+title: FRC Event
 ---
 
-# Event Info
+# FRC Event Competition
 
 **All of this info should be considered firm but subject to change. Watch for updates!** Exact details (parking, exact timing) is likely to come two or three days before the event. 
 
