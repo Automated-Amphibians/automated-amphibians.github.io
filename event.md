@@ -32,4 +32,6 @@ TBD, this is in discussion
 TBD, need to transcribe
 
 ### Useful Coaching Links
-[https://www.firstinspires.org/resource-library/frc/championship-information](Details On FRC Competition Structure)
+
+* [Details On FRC Competition Structure](https://www.firstinspires.org/resource-library/frc/championship-information)
+* [Field Map and scoring details](https://i.redd.it/fontihnhqoaa1.png)
