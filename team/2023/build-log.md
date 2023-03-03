@@ -1,6 +1,29 @@
 ---
 layout: content
 ---
+### Feb 29th Thu
+Chain box installed
+One chain on the side installed
+Wiring nearly completed
+
+### Feb 28th Wed
+Wired the tension plate
+More work on the chain box 
+Worked on making sure that the robot would be legal 
+Added surgical tubing for holding
+Added U-bolts for hard stops
+
+### Feb 28th Tue
+Got the chain box (drives the arm), should have put it together, but did not -- ok it's harder than it looks
+Got the sheet on, wiring started, and plastic sheet put together. We did get some wiring tied down as well.
+
+### Feb 27th Mon
+Vic found issues with the intake, we worked hard to fix them.
+
+Took the tensioner plate off to add the steel cable.
+
+Miguel and Nathan designed the chain box that will drive the arm.
+
 ### Feb 26th Sun (rare!)
 Shoulder problems totally fixed, arms completed, intake resized and attached, tensioner plate installed
 
@@ -11,7 +34,11 @@ Frame rebuild, arm attached, (shoulder problems mostly figured out)
 Frame nearly rebuilt
 
 ### Feb 23rd Thu
-Started reading the instructions, watching the videos, geez that helps a lot. Frame rebuild worked on
+Started reading the instructions, watching the videos, geez that helps a lot. Frame rebuild worked on.
+* Key Learnings:
+    * Read the instructions!
+    * Layout parts first!
+    * Come up with a plan on how to assemble if one does not exist    
 
 ### Feb 22rd Wed - power outages
 Frame complete - UH OH, as built, components will be outside of frame, need to rebuild
@@ -22,7 +49,9 @@ More swerve driving, locking down components because they are flying off
 Intake being worked on
 
 ### Feb 20th Mon (long day)
-Grabbed sheet metal from alro, screws, lots of building -- swerve started driving
+Bellyplate installed properly for first real driving
+Swerve corrections
+Grabbed sheet metal from alro, screws, lots of building 
 
 ### Feb 18th Sat
 Wiring finally complete
@@ -49,8 +78,8 @@ Incidentally, most swerve drives are left (counter-clockwise) is positive, right
 
 https://compendium.readthedocs.io/en/latest/tasks/drivetrains/swerve.html
 
-I've calibrated zero to the back, instead of the front. We've corrected for this by reversing the turnign and drive motors. I tried calibrating the backwards
-to 0.5, or 180 already, but I didn't reverse the turning and drive motors appropriately. Do that and it should hopefully properly orient in place orientation.
+Calibrated zero to the back, instead of the front. Corrected for this by reversing the turnign and drive motors. Tried calibrating the backwards
+to 0.5, or 180 already, but didn't reverse the turning and drive motors appropriately. Do that and it should hopefully properly orient in place orientation.
 
 Might be good to start with 
 * What angle does the "spin in place" algorithm want?
@@ -69,8 +98,7 @@ Might be good to start with
 * More CAD work?
 
 ### Feb 7th Tue
-* Try to keep everyone busy - can't even remember what we managed to get done
-* Let other mentors work on swerve coding
+* Swerve coding
 * Organized and went through parts list -- ordered couple missing items
 
 ### Feb 6th Mon
@@ -110,7 +138,7 @@ Might be good to start with
 Loaded firmware for Sparkmax controllers, finished wiring PDP (16-20x ferrule + anderson powerpole connectors made), velcroed on PDP, Sparkmaxes
 
 ### Jan 27th
-Sparkmax controllers wired into "temporary?" bellypan ceiling
+Sparkmax controllers wired into "temporary?" component ceiling
 
 ### Jan 25th?
 Wood bellypan ceiling added
@@ -121,13 +149,7 @@ Chassis Frame completed.
 First CAD model working
 
 ### Jan 14th
-Swerves being built -- NEO motors ordered -- arrived Tuesday, 
+Swerves being built -- NEO motors ordered -- arrived Tuesday
 
 ### Jan 7th
 Kickoff, game analysis.
-
-
-
-
-
-
