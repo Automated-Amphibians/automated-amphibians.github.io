@@ -22,8 +22,8 @@ title: FRC Event
 
 ## When
 * Thu, Mar. 9th  5pm - ? (dependent on how long it takes us to pass inspection)
-* Fri, Mar. 10th 7:30am - 6pmish
-* Sat, Mar. 11th 7:30am - 6pmish
+* Fri, Mar. 10th 8:00am - 6pmish
+* Sat, Mar. 11th 8:00am - 6pmish
 
 ## Where
 ```
@@ -62,6 +62,6 @@ TBD, need to transcribe
 
 ### 
 ### Useful Coaching Links
-
+* [Strategy](team/2023/strategy)
 * [Details On FRC Competition Structure](https://www.firstinspires.org/resource-library/frc/championship-information)
 * [Field Map and scoring details](https://i.redd.it/fontihnhqoaa1.png)
