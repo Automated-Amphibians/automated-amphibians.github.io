@@ -6,19 +6,20 @@ title: TODO
 Last updated: Mar 7th
 
 #### Before competition ideally
-* Build: Fix intake 
+* Build: Fix intake (the only real absolute must have)
 * Build: Additional cross bracing
-* Build: Tighten bicep chains
-* Build: Hold position in legal spot
-* Coding: Autons: Place item, drive out
 * Coding: Orient correctly when robot faces us
-* Build: Could stand to tighten/fix up surgical tubing
+* Coding: Autons: Place item, drive out
+* Build: Hold position in legal spot
+* Build: Tighten bicep chains
+* Coding: Auton: Balance
+* Coding: Create ability to X on stop or with button
+* Build: Cut off stuff that could accidentally snag hard stop
 * Build: Straighten arms (use tubing may be all that's necessary)
 * Coding: Add 180 capability
-* Coding: Create ability to X on stop or with button
 * CAD+Build: Design in Weight/Ballasts
-* Coding: Auton: Balance
-* Build: Cut off stuff that could accidentally snag hard stop
+* Build: Could stand to tighten/fix up surgical tubing
+
 * Build: Wire battery charger    
 
 #### Competition Prep
