@@ -23,4 +23,12 @@ Highlights
 
 ### Everybot Teams
 [8314](https://www.thebluealliance.com/team/8314)
+[4737](https://www.thebluealliance.com/team/4737)
 [5053](https://www.thebluealliance.com/team/5053) - working well
+
+3344
+9260
+9033
+
+https://www.firstinspires.org/resource-library/frc/event-experience
+

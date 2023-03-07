@@ -1,12 +1,29 @@
 ---
 layout: content
 ---
-### Feb 29th Thu
+### Feb 5th Mon
+Field drive is indeed working
+Tuned the intake only for it to die horribly    
+Weighs in at roughly 75-80 lbs. We can add 40 lbs.
+
+### Feb 4th Sun
+Swerve drive software improved, not fixed - gyro orientation now suspected as problem.
+Swerve fixed after gears thrown due to bad screws.
+Arm breaks.
+Acceleration improvements
+
+### Feb 3rd Sat
+Got chains installed, wiring completed, some arm issues addressed.
+
+### Feb 3rd Fri
+School closed, no work.
+
+### Feb 2nd Thu
 Chain box installed
 One chain on the side installed
 Wiring nearly completed
 
-### Feb 28th Wed
+### Mar 1stth Wed
 Wired the tension plate
 More work on the chain box 
 Worked on making sure that the robot would be legal 
