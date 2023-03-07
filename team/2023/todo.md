@@ -8,14 +8,14 @@ Last updated: Mar 7th
 #### Before Competition Ideally (in order of importantance)
 * Build: Fix intake (the only real absolute must have)
 * Build: Additional cross bracing 
-* Coding: Orient correctly when robot faces us
+* (DONE?) Coding: Orient correctly when robot faces us
 * Coding: Autons: Place item, drive out
-* Coding: Shuffleboard, select autonomous mode 
+* (DONE?) Coding: Shuffleboard, select autonomous mode 
 * Build: Hold position in legal spot (may already work)
 * Build: Add a camera to top of robot
 * Build: Tighten bicep chains
 * Coding: Auton: Balance
-* Coding: Create ability to X on stop or with button
+* (DONE?) Coding: Create ability to X on stop or with button
 * Build: Cut off stuff that could accidentally snag hard stop
 * CAD+Build: Design in Weight/Ballasts
 * Build: Could stand to tighten/fix up surgical tubing
@@ -55,7 +55,6 @@ Last updated: Mar 7th
 
 #### Cannot be completed without more information, parts or other steps complete
 
-* Coding: Autonomous mode - run up the ramp and break
 
 #### Extras
 * Plug Absolute Encoder into Alternate Encoder - https://docs.revrobotics.com/sparkmax/operating-modes/alternate-encoder-mode
