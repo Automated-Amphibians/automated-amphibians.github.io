@@ -11,6 +11,7 @@ Last updated: Mar 7th
 * Coding: Orient correctly when robot faces us
 * Coding: Autons: Place item, drive out
 * Build: Hold position in legal spot
+* Build: Add a camera to top of robot
 * Build: Tighten bicep chains
 * Coding: Auton: Balance
 * Coding: Create ability to X on stop or with button
