@@ -5,7 +5,7 @@ title: TODO
 ---
 Last updated: Mar 7th
 
-#### Before Competition Ideally (in order of importantance)
+#### Before Competition Ideally (in order of importance)
 * Build: Fix intake (the only real absolute must have)
 * Build: Additional cross bracing 
 * (DONE?) Coding: Orient correctly when robot faces us
