@@ -5,29 +5,26 @@ title: TODO
 ---
 Last updated: Mar 7th
 
-#### Before competition ideally
+#### Before Competition Ideally (in order of importantance)
 * Build: Fix intake (the only real absolute must have)
-* Build: Additional cross bracing
+* Build: Additional cross bracing 
 * Coding: Orient correctly when robot faces us
 * Coding: Autons: Place item, drive out
-* Build: Hold position in legal spot
+* Coding: Shuffleboard, select autonomous mode 
+* Build: Hold position in legal spot (may already work)
 * Build: Add a camera to top of robot
 * Build: Tighten bicep chains
 * Coding: Auton: Balance
 * Coding: Create ability to X on stop or with button
 * Build: Cut off stuff that could accidentally snag hard stop
-* Build: Straighten arms (use tubing may be all that's necessary)
-* Coding: Add 180 capability
 * CAD+Build: Design in Weight/Ballasts
 * Build: Could stand to tighten/fix up surgical tubing
 
-* Build: Wire battery charger    
-
-#### Competition Prep
+#### Competition Preperation
 * Transport of robot/totes
     * Uhaul - Lauren
 * Food
-* Who will be taking care of?
+* Who will be taking care of ... ?
     * Batteries (Aidan, Hansini)
     * Inspecting and fixing wiring (Konark)
     * Inspecting and fixing mechanical (Nathan, Hanna)
@@ -40,22 +37,24 @@ Last updated: Mar 7th
 * Unassigned team members: Sanvi, Rathul, Manasa, Ishaan
 
 #### TODO ASAP
+* Build: Wire battery charger    
+* Build: Straighten arms (use tubing may be all that's necessary)
+* Coding: Add 180 capability
 * Coding: turn while extended prevention
 * Marketing: Design tension plate logos/team customizations
     * Now we need to put it on the robot
 * Build: Add some type of endstop (for fully reversed or extended) or an encoder to detect arm position
+* Build: Sponsor Panel
+* Build: 
 
 #### Not doing
-* Build: [Grind down/cut motor shaft?](https://youtu.be/cAuw28GBfac?t=6659) -- we will skip this -- hopefully do not regret
 
 #### Can be done immediately, but are not the priority
-* Bumper/Chassis -- Design plan to add carrying handles 
-* Build: Add camera?
+* Build: Bumper/Chassis -- Design plan to add carrying handles 
 * Build: [Add double game element carry protection](https://youtu.be/HqV5bPj1rbc?t=1246)
 
 #### Cannot be completed without more information, parts or other steps complete
-* Coding: Autonomous mode - in and out of zone
-* Coding: Shuffleboard, select autonomous mode
+
 * Coding: Autonomous mode - run up the ramp and break
 
 #### Extras
