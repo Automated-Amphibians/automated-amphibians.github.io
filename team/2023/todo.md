@@ -5,29 +5,39 @@ title: TODO
 ---
 Last updated: Mar 7th
 
-#### Must be done before driving
+#### Before competition ideally
 * Build: Fix intake 
 * Build: Additional cross bracing
 * Build: Tighten bicep chains
 * Build: Hold position in legal spot
+* Coding: Autons: Place item, drive out
+* Coding: Orient correctly when robot faces us
 * Build: Could stand to tighten/fix up surgical tubing
 * Build: Straighten arms (use tubing may be all that's necessary)
-* Build: Cut off stuff that could accidentally snag hard stop
-* Coding: Auto: Place item, drive out
-* Coding: Create ability to X on stop or with button
 * Coding: Add 180 capability
-* Build: Wire battery charger    
+* Coding: Create ability to X on stop or with button
 * CAD+Build: Design in Weight/Ballasts
-* Competition Prep: Figure out how we are going to transport robot on game day
-* Competition Prep: Food
-* Competition Prep: Who will be taking care of?
-    * Batteries
-    * Inspecting and fixing wiring
-    * Inspecting and fixing mechanical
-* Competition Prep: Who are the five reps on the field
-    * Two drivers, a drive coach, human player, and technician
+* Coding: Auton: Balance
+* Build: Cut off stuff that could accidentally snag hard stop
+* Build: Wire battery charger    
 
-#### ASAP
+#### Competition Prep
+* Transport of robot/totes
+    * Uhaul - Lauren
+* Food
+* Who will be taking care of?
+    * Batteries (Aidan, Hansini)
+    * Inspecting and fixing wiring (Konark)
+    * Inspecting and fixing mechanical (Nathan, Hanna)
+    * Technicians during inspection (Sanjith/Konark/Nathan/Aidan/Hanna)
+* Who are the five reps on the field?
+    * Two drivers (Nathan, Aidan), (Konark?, Sanjith?) -- (not 100% set, students still need more time on robot)
+    * Drive coach (Pall)
+    * Human player (Sanjith)
+    * Technician (?) (Luke, Pranav, Pranaov)
+* Unassigned team members: Sanvi, Rathul, Manasa, Ishaan
+
+#### TODO ASAP
 * Coding: turn while extended prevention
 * Marketing: Design tension plate logos/team customizations
     * Now we need to put it on the robot
