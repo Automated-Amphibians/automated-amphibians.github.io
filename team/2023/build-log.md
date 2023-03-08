@@ -1,9 +1,15 @@
 ---
 layout: content
 ---
+### Feb 6th Tue
+Fixed the intake. Wow! Thank you TheThriftyBot and Ryan. Blue stuff
+Put a cross brace in
+
+
+
 ### Feb 5th Mon
 Field drive is indeed working
-Tuned the intake only for it to die horribly    
+Tuned the intake only for it to die horribly. Replacing with 
 Weighs in at roughly 75-80 lbs. We can add 40 lbs.
 
 ### Feb 4th Sun

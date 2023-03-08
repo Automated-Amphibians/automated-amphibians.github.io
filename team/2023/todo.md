@@ -6,24 +6,24 @@ title: TODO
 Last updated: Mar 7th
 
 #### Before Competition Ideally (in order of importance)
-* Build: Fix intake (the only real absolute must have)
 * Build: Additional cross bracing 
-* (DONE?) Coding: Orient correctly when robot faces us
-* Coding: Autons: Place item, drive out
-* (DONE?) Coding: Shuffleboard, select autonomous mode 
 * Build: Hold position in legal spot (may already work)
-* Build: Add a camera to top of robot
-* Build: Tighten bicep chains
-* Coding: Auton: Balance
+* Build: Plexiglass cover for roborio, tape open pins, ideally robot signal
+* (DONE?) Coding: Orient correctly when robot faces us
+* (DONE?) Coding: Autons: Place item, drive out (can't use until intake is fixed)
+* (DONE?) Coding: Shuffleboard, select autonomous mode 
 * (DONE?) Coding: Create ability to X on stop or with button
-* Build: Cut off stuff that could accidentally snag hard stop
+* Build: Add a camera to top of robot
+* Build: Tighten bicep chains 
+* Coding: Auton: Balance
+* Build: Cut off stuff that could accidentally snag hard stop (dremel)
 * CAD+Build: Design in Weight/Ballasts
 * Build: Could stand to tighten/fix up surgical tubing
 
 #### Competition Preperation
 * Transport of robot/totes
     * Uhaul - Lauren
-* Food
+* Food?
 * Who will be taking care of ... ?
     * Batteries (Aidan, Hansini)
     * Inspecting and fixing wiring (Konark)
@@ -45,7 +45,6 @@ Last updated: Mar 7th
     * Now we need to put it on the robot
 * Build: Add some type of endstop (for fully reversed or extended) or an encoder to detect arm position
 * Build: Sponsor Panel
-* Build: 
 
 #### Not doing
 
