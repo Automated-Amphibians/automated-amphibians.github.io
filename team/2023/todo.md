@@ -9,11 +9,14 @@ Last updated: Mar 7th
 * Build: Additional cross bracing 
 * Build: Hold position in legal spot (may already work)
 * Build: Plexiglass cover for roborio, tape open pins, ideally robot signal
+* Build: Add a camera to top of robot
+* Build: Print sponsor information
 * (DONE?) Coding: Orient correctly when robot faces us
 * (DONE?) Coding: Autons: Place item, drive out (can't use until intake is fixed)
 * (DONE?) Coding: Shuffleboard, select autonomous mode 
 * (DONE?) Coding: Create ability to X on stop or with button
-* Build: Add a camera to top of robot
+* (DONE?) Coding: Put a port sensing page on shuffleboard to determine driver/arm
+* (DONE?) Coding: Add camera support to robot
 * Build: Tighten bicep chains 
 * Coding: Auton: Balance
 * Build: Cut off stuff that could accidentally snag hard stop (dremel)
