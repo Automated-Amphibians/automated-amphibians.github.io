@@ -6,27 +6,27 @@ title: TODO
 Last updated: Mar 7th
 
 #### Before Competition Ideally (in order of importance)
-* Build: Additional cross bracing 
-* Build: Hold position in legal spot (may already work)
 * Build: Plexiglass cover for roborio, tape open pins, ideally robot signal
-* Build: Add a camera to top of robot
-* Build: Print sponsor information
-* (DONE?) Coding: Orient correctly when robot faces us
-* (DONE?) Coding: Autons: Place item, drive out (can't use until intake is fixed)
-* (DONE?) Coding: Shuffleboard, select autonomous mode 
-* (DONE?) Coding: Create ability to X on stop or with button
-* (DONE?) Coding: Put a port sensing page on shuffleboard to determine driver/arm
-* (DONE?) Coding: Add camera support to robot
-* Build: Tighten bicep chains 
+* Build: Print sponsor information/have side panel
+* Build: Add Carbiner Robot Carrier
+* Build: Driver station
+* Build: Organize/label boxes
+* Build: Shorten 1/2 inch hex for intake
 * Coding: Auton: Balance
-* Build: Cut off stuff that could accidentally snag hard stop (dremel)
+* Coding: Improve arm movement overall - 
+* Coding: Hold position on arm down during drive
+* Coding: Orientation improvements?
+* Coding: Create ability to X on stop or with button
+* Build: Tighten bicep chains 
 * CAD+Build: Design in Weight/Ballasts
 * Build: Could stand to tighten/fix up surgical tubing
+* Build: Design additional intake - https://www.youtube.com/watch?v=4SDci6viCgk
+* Marketing/Fundraising/Documentation: https://www.teamcodeorange.com/pdf/2022Binder.pdf
+* Marketing/Fundraising/Documentation: Update website
+* Marketing/Fundraising/Documentation: Write letters
+* Marketing/Fundraising/Documentation: Add a sponsor panel
 
 #### Competition Preperation
-* Transport of robot/totes
-    * Uhaul - Lauren
-* Food?
 * Who will be taking care of ... ?
     * Batteries (Aidan, Hansini)
     * Inspecting and fixing wiring (Konark)
@@ -40,8 +40,8 @@ Last updated: Mar 7th
 * Unassigned team members: Sanvi, Rathul, Manasa, Ishaan
 
 #### TODO ASAP
+* Build: Better camera spot 
 * Build: Wire battery charger    
-* Build: Straighten arms (use tubing may be all that's necessary)
 * Coding: Add 180 capability
 * Coding: turn while extended prevention
 * Marketing: Design tension plate logos/team customizations

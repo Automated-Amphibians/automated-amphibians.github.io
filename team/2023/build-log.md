@@ -1,35 +1,38 @@
 ---
 layout: content
 ---
-### Feb 6th Tue
+### Mar 8th Wed
+Better crossbrace put in 
+Camera added
+First auton tested, went ok
+
+### Mar 7th Tue
 Fixed the intake. Wow! Thank you TheThriftyBot and Ryan. Blue stuff
 Put a cross brace in
 
-
-
-### Feb 5th Mon
+### Mar 6th Mon
 Field drive is indeed working
 Tuned the intake only for it to die horribly. Replacing with 
 Weighs in at roughly 75-80 lbs. We can add 40 lbs.
 
-### Feb 4th Sun
+### Mar 5th Sun
 Swerve drive software improved, not fixed - gyro orientation now suspected as problem.
 Swerve fixed after gears thrown due to bad screws.
 Arm breaks.
 Acceleration improvements
 
-### Feb 3rd Sat
+### Mar 4th Sat
 Got chains installed, wiring completed, some arm issues addressed.
 
-### Feb 3rd Fri
+### Mar 3rd Fri
 School closed, no work.
 
-### Feb 2nd Thu
+### Mar 2nd Thu
 Chain box installed
 One chain on the side installed
 Wiring nearly completed
 
-### Mar 1stth Wed
+### Mar 1st Wed
 Wired the tension plate
 More work on the chain box 
 Worked on making sure that the robot would be legal 
