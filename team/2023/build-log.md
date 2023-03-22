@@ -1,6 +1,22 @@
 ---
 layout: content
 ---
+### Mar 16th
+Finished adding handles to carry robot
+So many issues with the bottom panel and rivnuts
+Added a spacer between the bearing and the sprocket
+
+### Mar 15th
+
+
+### Mar 14th (Tuesday)
+Started driver station
+
+### Mar 9-12th
+Competition! We increased the number of bolts we used to secure the superstructure to the Chassis
+We found the chain got increasingly looser, 
+
+
 ### Mar 8th Wed
 Better crossbrace put in 
 Camera added

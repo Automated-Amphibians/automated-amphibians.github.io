@@ -1,9 +1,21 @@
 ---
 layout: content
 ---
+* Portable Rivet tool (350)
+* Multimeter (100)
+* Additional Swerve Drive (2500)
+* Dedicated Vision System (400)
+* New Gyro sensor (250)
+* New Encoders (350)
+* Backdrop/Vendor Display (200)
+
+
 * More surgical tubing
 * Tap and die set?
 
+
+https://www.chiefdelphi.com/t/1-4in-rivets-vs-3-16in-rivets/430486/9
+Discussion of rivets
 
 
 #8 = 8/32 (versaframe)
