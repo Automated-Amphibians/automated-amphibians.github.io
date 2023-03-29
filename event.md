@@ -28,10 +28,10 @@ title: FRC Event
 ## When
 * Wed. 11am - Volunteer work - Please come, we should have at least 6 team members (parents, students representing us). These are volunteer run events.
 * Thursday
-    * 4pm - Robot check-in
+    * 4pm - Pack up the robot and boxes. The more the merrier. Will be transported by Chris, and any extra boxes by Lauren.
+    * 5pm - we should arrive at Churchill (ideally). Get radio programmed, weighed, inspected. 
 * Fri. 
-    * 8am - Pits open, this is a fine time to arrive
-    * Finish should be sometime around 6:30-7
+    * 8am - Pits open, this is a fine time to arrive Finish should be sometime around 6:30-7
 * Sat. 
     * 8am - Pits open, this is a fine time to arrive
     * Finish should be sometime around 7
@@ -54,7 +54,7 @@ We will have limited water, please bring your own bottle.
 * Lunch Friday - Subs of some variety (covered by fee)
 * Dinner Thu/Fri - We'll have some snacks (healthy and otherwise) to supplement to tide over before people go home for dinner since we are close.
 
-There are concession, and while they offered food ordering, we chose the above as an alternative.
+There are concessions, and while they offered food ordering, we chose the above as an alternative.
 
 ## Competition 
 
@@ -65,11 +65,12 @@ There are concession, and while they offered food ordering, we chose the above a
 * Ishaan, Konark, Sanjith, Hanna are potential technicians (lifting and working on the robot) 
 
 ### Pit Crew
-* We should designed
+* We hopefully will have a handout for basic robot information
+
 
 ### Robot pit crew
 * Battery Team will remain the same from the first competition
-* 
+* We need to inspect the swerves after every other match
 
 
 ### Transportation - Riding with another team member
