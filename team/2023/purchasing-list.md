@@ -1,14 +1,14 @@
 ---
 layout: content
 ---
+* Additional Swerve Drive (2500)
 * Portable Rivet tool (350)
 * Multimeter (100)
-* Additional Swerve Drive (2500)
-* Dedicated Vision System (400)
 * New Gyro sensor (250)
 * New Encoders (350)
 * Backdrop/Vendor Display (200)
-
+* Hakko Soldering Gun (130)
+* Soldering Fume Extractor? 
 
 * More surgical tubing
 * Tap and die set?

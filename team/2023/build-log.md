@@ -1,6 +1,15 @@
 ---
 layout: content
 ---
+### Mar 23rd
+Parts for additional intake finished
+
+### Mar 20th
+Design for additional intake complete
+
+### Mar 18th
+Arm chains tension increased
+
 ### Mar 16th
 Finished adding handles to carry robot
 So many issues with the bottom panel and rivnuts

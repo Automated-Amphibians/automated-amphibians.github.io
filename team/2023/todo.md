@@ -6,21 +6,21 @@ title: TODO
 Last updated: Mar 7th
 
 #### Before Competition Ideally (in order of importance)
-* Build: Plexiglass cover for roborio, tape open pins, ideally robot signal
+* Build: Add angle bracing
+* Build: Cut tread for swerve with Matt
 * Build: Print sponsor information/have side panel
-* Build: Add Carbiner Robot Carrier
+* Build: Add tensioner to arm gearbox (improves arm movement)
+* Build: Fix up robot signal light
+* Build: Dispose of hook from last season
 * Build: Driver station
-* Build: Organize/label boxes
+* Build: Build additional intake
 * Build: Shorten 1/2 inch hex for intake
-* Coding: Auton: Balance
-* Coding: Improve arm movement overall - 
-* Coding: Hold position on arm down during drive
-* Coding: Orientation improvements?
+* Coding: Photonvision configuration - fix static ip configuration
+* Coding: Improve arm movement (speed)
 * Coding: Create ability to X on stop or with button
-* Build: Tighten bicep chains 
-* CAD+Build: Design in Weight/Ballasts
-* Build: Could stand to tighten/fix up surgical tubing
-* Build: Design additional intake - https://www.youtube.com/watch?v=4SDci6viCgk
+* Coding: Auton: Over and Balance 
+* Coding: Make sure that snap to direction works
+* Build: Organize/label boxes
 * Marketing/Fundraising/Documentation: https://www.teamcodeorange.com/pdf/2022Binder.pdf
 * Marketing/Fundraising/Documentation: Update website
 * Marketing/Fundraising/Documentation: Write letters
@@ -40,6 +40,7 @@ Last updated: Mar 7th
 * Unassigned team members: Sanvi, Rathul, Manasa, Ishaan
 
 #### TODO ASAP
+* Build: Could stand to tighten/fix up surgical tubing
 * Build: Better camera spot 
 * Build: Wire battery charger    
 * Coding: Add 180 capability

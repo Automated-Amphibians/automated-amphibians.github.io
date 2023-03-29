@@ -16,29 +16,63 @@ title: FRC Event
         padding-top: 0.5em;
     }
 </style>
-# Kettering #2 FRC Competition
+# Livonia Competition
 
-**All of this info should be considered firm but subject to change. Watch for updates!** Exact details will come two or three days before the event. 
+## Key Student Responsibilities
+
+* Please come to help build the competition field on Wednesday at 4pm. If you can only make it by 6pm, that should be fine. Dinner (probably pizza) will be provided.
+    * If you were unable 
+* REMEMBER YOUR SAFETY GLASSES. There are very few "extras" (maybe one). If you don't bring your glasses, **drive back home and get them**.
+* You are responsible for your own transportation. If you need a ride, see below.
 
 ## When
-* Thu, Mar. 9th  5pm - ? (dependent on how long it takes us to pass inspection)
-* Fri, Mar. 10th 8:00am - 6pmish
-* Sat, Mar. 11th 8:00am - 6pmish
+* Wed. 11am - Volunteer work - Please come, we should have at least 6 team members (parents, students representing us). These are volunteer run events.
+* Thursday
+    * 4pm - Robot check-in
+* Fri. 
+    * 8am - Pits open, this is a fine time to arrive
+    * Finish should be sometime around 6:30-7
+* Sat. 
+    * 8am - Pits open, this is a fine time to arrive
+    * Finish should be sometime around 7
 
 ## Where
 ```
-    Kettering University
-    1700 University Avenue Recreation Center
-    Flint, MI 48504 USA
+    Churchhill High School
+    8900 Newburgh Road
+    Livonia, MI 48150
 ```
 {: .big}
 
-[Google Maps](https://www.google.com/maps/dir//Kettering+University+Connie+and+Jim+John+Recreation+Center,+Connie+and+Jim+John+Recreation+Center,+1700+University+Ave,+Flint,+MI+48504/@43.0117596,-83.7155348,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x8823827b44dbd349:0xac6b1b855717ebfe!2m2!1d-83.7140725!2d43.0109719!3e0)
+[Google Maps](https://goo.gl/maps/t3RRNmZdkM5NFLgb8)
 
-## Transportation
-All students are responsible for their own transportation! 
+## Food
+We will have limited water, please bring your own bottle.
 
-### Riding with another team member
+* Breakfast - Bagels, Banannas, Apples
+* Lunch Thursday - Pizza (covered by fee)
+* Lunch Friday - Subs of some variety (covered by fee)
+* Dinner Thu/Fri - We'll have some snacks (healthy and otherwise) to supplement to tide over before people go home for dinner since we are close.
+
+There are concession, and while they offered food ordering, we chose the above as an alternative.
+
+## Competition 
+
+### Drive Team Personel
+* Aidan is going to continue to serve as captain and representative
+* Nathan and Aidan will be driver/arm operator
+* Sanvi/Sanjith/Luke are the team members I recall who practiced for being human player. We need one of these human players for practice on Thursday night
+* Ishaan, Konark, Sanjith, Hanna are potential technicians (lifting and working on the robot) 
+
+### Pit Crew
+* We should designed
+
+### Robot pit crew
+* Battery Team will remain the same from the first competition
+* 
+
+
+### Transportation - Riding with another team member
 **You can only provide transportation for other team members as an approved volunteer.**{: .important}
 
 **To become an approved volunteer (who can give a ride), you must:**
@@ -50,17 +84,6 @@ All students are responsible for their own transportation!
 
 * [Transportation Waiver](Transportation%20Waiver.pdf)
 
-
-### Food
-TBD, this is in discussion now
-
-### Load-In Details
-TBD, this is in discussion
-
-### Pit-crew
-TBD, need to transcribe
-
-### 
 ### Useful Coaching Links
 * [Strategy](team/2023/strategy)
 * [Details On FRC Competition Structure](https://www.firstinspires.org/resource-library/frc/championship-information)
