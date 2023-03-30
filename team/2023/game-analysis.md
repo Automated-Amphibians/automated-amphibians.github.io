@@ -35,7 +35,8 @@ get to 6 game total pieces pretty easily (plus balance) for a total of 40 in gri
 
 ### Alliance Negotiation
 * Stay in lane, or negotiate another strategy such as flow
-* Get four links
+* Coopertition, Get four links
+* We balance, two get on, we'll complete last minute links, or join you on
 
 Defense tips:
 * Early on knock cubes/cones out of their grasp (don't hit attachments)

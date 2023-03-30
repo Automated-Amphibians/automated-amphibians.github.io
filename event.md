@@ -89,3 +89,4 @@ There are concessions, and while they offered food ordering, we chose the above 
 * [Strategy](team/2023/strategy)
 * [Details On FRC Competition Structure](https://www.firstinspires.org/resource-library/frc/championship-information)
 * [Field Map and scoring details](https://i.redd.it/fontihnhqoaa1.png)
+* [Drive coach notes](team/2023/game-time)
