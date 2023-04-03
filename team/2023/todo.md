@@ -6,19 +6,17 @@ title: TODO
 Last updated: Mar 7th
 
 #### Before Competition Ideally (in order of importance)
-* Build: Add angle bracing
-* Build: Cut tread for swerve with Matt
-* Build: Print sponsor information/have side panel
-* Build: Add tensioner to arm gearbox (improves arm movement)
-* Build: Fix up robot signal light
-* Build: Dispose of hook from last season
-* Build: Driver station
-* Build: Build additional intake
-* Build: Shorten 1/2 inch hex for intake
+* Fix!: Pulleys
+* Fix!: Wiring (replace section with ) -- additionally we should cut off the part that the wiring gets caught up on
+* Fix!: Arm hardstops
+* Build: Improve driver station -- LEDs, shortening
+* Build: Add a cart table/push
+* Build: Update tread on wheels
+* Build: Add angle bracing?
+* Build: Fix up robot signal light?
 * Coding: Photonvision configuration - fix static ip configuration
-* Coding: Improve arm movement (speed)
 * Coding: Create ability to X on stop or with button
-* Coding: Auton: Over and Balance 
+* Coding: Auton: Improve over and balance would be nice
 * Coding: Make sure that snap to direction works
 * Build: Organize/label boxes
 * Marketing/Fundraising/Documentation: https://www.teamcodeorange.com/pdf/2022Binder.pdf
