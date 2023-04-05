@@ -5,7 +5,9 @@ title: Season Build Log
 
 The 2023 FRC Season "Charged Up!" is in full swing! We have completed most of the updates before the state competition. However, we are planning to make some additional upgrades to our robot after competition to improve its performance.
 
-![](/assets/Robotplacingcone.jpg)
+<p align="center">
+  <img src="/assets/Robotplacingcone.jpg" alt="Robot Placing Cone">
+</p>
 
 One of our planned upgrades is to add an Orange Pi for visual recognition. We hope to use the Orange Pi to its full potential by adding an intake on the ground. This will help us to achieve our goals and maximize the performance of our robot.
 
