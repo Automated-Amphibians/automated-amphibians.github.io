@@ -15,10 +15,18 @@ title: FRC Event
     h2,h3 {
         padding-top: 0.5em;
     }
+    body > ul.test > li {
+    float: left;
+    }
+    h2 {
+        clear: left;
+    }
 </style>
-# Michigan State Competition
+## 2023 FRC Michigan State Competition
 
-### Addresses
+Event Information: [https://firstinmichigan.us/FRC/state-championship/](https://firstinmichigan.us/FRC/state-championship/)
+
+## Where?
 [Hampton Inn Hotel](https://goo.gl/maps/9mCnvK3RXqZGWQfE7)
 ```
     Hampton Inn
@@ -28,7 +36,7 @@ title: FRC Event
 ```
 {: .big}
 
-[Event Address](https://goo.gl/maps/7AgozLSptwfoVZq39)
+[Saginaw Valley State University](https://goo.gl/maps/7AgozLSptwfoVZq39)
 ```
     Saginaw Valley State University
     Ryder Center 7400 Bay Road
@@ -106,6 +114,7 @@ title: FRC Event
     * 4:00pm - Final awards
     * 6:00pm - pits close, pack uhaul
     * 6:30pm - Depart
+{:.test}
 
 ## Food notes
 (food schedule is above)
