@@ -21,58 +21,50 @@ Students will be challenged to learn STEM principals including coding, how to de
 
 A successful season with FRC 8426 isn’t a grind towards an award. For us, a successful season is one that ends with students excited about pursuing deeper levels of mastery in robotics, stem, and academics.
 
-<img src="assets/team-pic.jpg" id="image1" style="width:100%">
-<img src="assets/charged-up-logo.jpg" id="image2" style="width:100%;display:none">
-<img src="assets/Robotplacingcone.jpg" id="image3" style="width:100%;display:none">
+<style>
+img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0;
+}
+
+#image1 {
+  opacity: 1;
+}
+
+</style>
+
+<img src="assets/team-pic.jpg" width="100%" id="image1">
+<img src="assets/charged-up-logo.jpg" width="100%" id="image2">
+<img src="assets/Robotplacingcone.jpg" width="100%" id="image3">
 
 <script>
 var img1 = document.getElementById("image1");
 var img2 = document.getElementById("image2");
 var img3 = document.getElementById("image3");
 
-function fadeIn(elem, ms) {
-  var op = 0;
-  elem.style.display = 'block';
-  var timer = setInterval(function () {
-    if (op >= 1) clearInterval(timer);
-    elem.style.opacity = op;
-    elem.style.filter = 'alpha(opacity=' + op * 100 + ")";
-    op += op * 0.1 || 0.1;
-  }, ms / 10);
-}
-
-function fadeOut(elem, ms) {
-  var op = 1;
-  var timer = setInterval(function () {
-    if (op <= 0) {
-      clearInterval(timer);
-      elem.style.display = 'none';
-    }
-    elem.style.opacity = op;
-    elem.style.filter = 'alpha(opacity=' + op * 100 + ")";
-    op -= op * 0.1 || 0.1;
-  }, ms / 10);
-}
+var images = [img1, img2, img3];
+var index = 0;
 
 setInterval(function(){
-  fadeIn(img2, 2000);
-  setTimeout(function() {
-    fadeOut(img1, 2000);
-  }, 5000);
-  setTimeout(function() {
-    fadeIn(img3, 2000);
-  }, 7000);
-  setTimeout(function() {
-    fadeOut(img2, 2000);
-  }, 10000);
-  setTimeout(function() {
-    fadeIn(img1, 2000);
-  }, 12000);
-}, 15000);
+  var currentImg = images[index];
+  var nextImg = images[(index + 1) % images.length];
 
-fadeIn(img1, 2000); // start with first image
-</script>
+  currentImg.style.opacity = "0";
 
+  setTimeout(function() {
+    currentImg.style.display = "none"; 
+    nextImg.style.display = "block";
+    setTimeout(function() {
+      nextImg.style.opacity = "1";
+    }, 100);
+  }, 500);
+
+  index = (index + 1) % images.length;
+
+}, 2000);
 
 ## When 
 Team 8426 starts in October and run through April 1st. Meetings are once a week before the challenge is issued in January, but we move to 3-4 meetings a week when the challenge is issued in January.
