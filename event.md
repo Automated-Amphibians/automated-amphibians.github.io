@@ -21,6 +21,12 @@ title: FRC Event
     h2 {
         clear: left;
     }
+    .test {
+        clear: both;
+    }
+    .test+h3 {
+        clear: both;
+    }
 </style>
 ## 2023 FRC Michigan State Competition
 
@@ -127,24 +133,4 @@ Event Information: [https://firstinmichigan.us/FRC/state-championship/](https://
     * 6:30pm - Depart
 {:.test}
 
-
-
-### Transportation - Riding with another team member
-**You can only provide transportation for other team members as an approved volunteer.**{: .important}
-
-**To become an approved volunteer (who can give a ride), you must:**
-
-* Email Ashley Bootz (ashley.bootz@novik12.org) with a copy of their driver's license, registration, and insurance.
-* Fill out the [volunteer form](https://bit.ly/NCSDICHATLINK).
-
-**To ride with another team member you must fill out the transportation waiver:**
-
-* [Transportation Waiver](Transportation%20Waiver.pdf)
-
-### Drive Team Personell
-* Please let me know if you are interested in being a human player. Human players will need to get in a half hour of practice and we will go through a briefing of exactly what happens during the match. It can be learned quickly, but it does require the human player to move and react fairly quickly.
-    * Sanvi, Sanjith, Pranav, Konark and Luke are all qualified already as they've done their training.
-    * Hansini is on the interested list, and we'll get her some training time,
-* Nathan and Aidan will continue to be driver/arm operator
-* Sanvi/Sanjith/Luke are the team members I recall who practiced for being human player. We need one of these human players for practice on Thursday night
-* Ishaan, Konark, Sanjith, Hanna are potential technicians (lifting and working on the robot) 
+### 
