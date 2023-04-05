@@ -23,9 +23,9 @@ A successful season with FRC 8426 isn’t a grind towards an award. For us, a su
 
 <div style="position: relative; width: 100%; height: 500px; overflow: hidden;">
   <img src="assets/centered-logo-trimmed.jpg" style="position: absolute; top: 0; left: 0; opacity: 1; animation: fade 5s infinite;" />
-  <img src="assets/charged-up-logo.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; animation: fade 5s infinite;" />
-  <img src="assets/team-pic.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; animation: fade 5s infinite;" />
-  <img src="assets/Robotplacingcone.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; animation: fade 5s infinite;" />
+  <img src="assets/charged-up-logo.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; animation: delay-fade 5s infinite;" />
+  <img src="assets/team-pic.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; animation: delay-fade 5s infinite 5s;" />
+  <img src="assets/Robotplacingcone.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; animation: delay-fade 5s infinite 10s;" />
 </div>
 
 <style>
@@ -41,6 +41,28 @@ A successful season with FRC 8426 isn’t a grind towards an award. For us, a su
   }
   100% {
     opacity: 1;
+  }
+}
+</style>
+
+@keyframes delay-fade {
+  0% {
+    opacity: 0;
+  }
+  16.666% {
+    opacity: 0;
+  }
+  33.333% {
+    opacity: 1;
+  }
+  66.666% {
+    opacity: 1;
+  }
+  83.333% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
   }
 }
 </style>
