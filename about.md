@@ -20,25 +20,30 @@ We focus on:
 Students will be challenged to learn STEM principals including coding, how to design and fabricate robot parts, and how a group of engineers coordinates a large project towards a single goal. 
 
 A successful season with FRC 8426 isn’t a grind towards an award. For us, a successful season is one that ends with students excited about pursuing deeper levels of mastery in robotics, stem, and academics.
+
 <div style="position: relative; width: 100%; height: 500px;">
-  <img src="assets/centered-logo-trimmed.jpg" style="position: absolute; top: 0; left: 0; opacity: 1; transition: opacity 1s ease-in-out;"/>
-  <img src="assets/charged-up-logo.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 1s ease-in-out;"/>
-  <img src="assets/Robotplacingcone.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 1s ease-in-out;"/>
-  <img src="assets/team-pic.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 1s ease-in-out;"/>
+  <img src="assets/centered-logo-trimmed.jpg" style="position: absolute; top: 0; left: 0; opacity: 1; animation: fade 5s infinite;" />
+  <img src="assets/charged-up-logo.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; animation: fade 5s infinite;" />
+  <img src="assets/team-pic.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; animation: fade 5s infinite;" />
+  <img src="assets/Robotplacingcone.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; animation: fade 5s infinite;" />
 </div>
 
-<script>
-var images = document.querySelectorAll("div img");
-var index = 0;
-
-function nextImage() {
-  images[index].style.opacity = "0";
-  index = (index + 1) % images.length;
-  images[index].style.opacity = "1";
+<style>
+@keyframes fade {
+  0% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 0;
+  }
+  80% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
-
-setInterval(nextImage, 3000); // change image every 3 seconds
-</script>
+</style>
 
 
 ## When 
