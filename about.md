@@ -21,50 +21,24 @@ Students will be challenged to learn STEM principals including coding, how to de
 
 A successful season with FRC 8426 isn’t a grind towards an award. For us, a successful season is one that ends with students excited about pursuing deeper levels of mastery in robotics, stem, and academics.
 
-<style>
-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  transition: opacity 0.5s ease-in-out;
-  opacity: 0;
-}
-
-#image1 {
-  opacity: 1;
-}
-
-</style>
-
-<img src="assets/team-pic.jpg" width="100%" id="image1">
-<img src="assets/charged-up-logo.jpg" width="100%" id="image2">
-<img src="assets/Robotplacingcone.jpg" width="100%" id="image3">
+<div style="position: relative; width: 600px; height: 400px;">
+  <img src="assets/team-pic.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;"/>
+  <img src="assets/charged-up-logo.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;"/>
+  <img src="assets/Robotplacingcone.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;"/>
+</div>
 
 <script>
-var img1 = document.getElementById("image1");
-var img2 = document.getElementById("image2");
-var img3 = document.getElementById("image3");
+var images = document.getElementsByTagName('img');
+var current = 0;
 
-var images = [img1, img2, img3];
-var index = 0;
+function nextImage() {
+  images[current].style.opacity = 0;
+  current = (current + 1) % images.length;
+  images[current].style.opacity = 1;
+}
 
-setInterval(function(){
-  var currentImg = images[index];
-  var nextImg = images[(index + 1) % images.length];
-
-  currentImg.style.opacity = "0";
-
-  setTimeout(function() {
-    currentImg.style.display = "none"; 
-    nextImg.style.display = "block";
-    setTimeout(function() {
-      nextImg.style.opacity = "1";
-    }, 100);
-  }, 500);
-
-  index = (index + 1) % images.length;
-
-}, 2000);
+setInterval(nextImage, 3000); // change image every 3 seconds
+</script>
 
 ## When 
 Team 8426 starts in October and run through April 1st. Meetings are once a week before the challenge is issued in January, but we move to 3-4 meetings a week when the challenge is issued in January.
