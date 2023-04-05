@@ -54,7 +54,7 @@ Event Information: [https://firstinmichigan.us/FRC/state-championship/](https://
 * Chris Pall - (734) 395-6819
 * Sibasis Sahoo - (734) 330-7071
 * Srinivas Mummidivarapu - (614) 354-3475
-* Lauren Lundquist - (248) 798-9410
+* Lauren Sundquist - (248) 798-9410
 
 ### What to bring
 * Bring safety glasses
@@ -132,5 +132,3 @@ Event Information: [https://firstinmichigan.us/FRC/state-championship/](https://
     * 6:00pm - pits close, pack uhaul
     * 6:30pm - Depart
 {:.test}
-
-### 
