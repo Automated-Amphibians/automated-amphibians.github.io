@@ -51,17 +51,17 @@ Event Information: [https://firstinmichigan.us/FRC/state-championship/](https://
 {: .big}
 
 ### Chaperone Contact Information
-* Chris Pall - (734)395-6819
-* Sibasis Sahoo - (734)330-7071
-* Srinivas Mummidivarapu - (614)354-3475
-* Lauren Lundquist - 248-798-9410
+* Chris Pall - (734) 395-6819
+* Sibasis Sahoo - (734) 330-7071
+* Srinivas Mummidivarapu - (614) 354-3475
+* Lauren Lundquist - (248) 798-9410
 
 ### What to bring
 * Bring safety glasses
 * Money for concession (optional)
 * Water bottle
 
-#### What to do
+### What to do
 * Scouting (will have a handout for what to look for)
 * Be available to help address robot issues
 * Producing documentation for later (us at the pits, videos of us in competition)
@@ -79,7 +79,7 @@ Event Information: [https://firstinmichigan.us/FRC/state-championship/](https://
 * Kokkarne Namrata
 * Mitra Mahua
 
-### Rooms Assignments
+### Room Assignments
 1. Rathul/Sanjith/Konark/Ishaan
 2. Pranaov/Pranav/Nathan
 3. Sanvi/Hansini/Hanna/Manasa
