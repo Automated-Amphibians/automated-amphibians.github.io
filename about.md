@@ -30,12 +30,36 @@ var img1 = document.getElementById("image1");
 var img2 = document.getElementById("image2");
 var img3 = document.getElementById("image3");
 
-setTimeout(function(){ img1.style.opacity = "0"; }, 2000);
-setTimeout(function(){ img1.style.display = "none"; img2.style.display = "block"; }, 2500);
-setTimeout(function(){ img2.style.opacity = "0"; }, 4500);
-setTimeout(function(){ img2.style.display = "none"; img3.style.display = "block"; }, 5000);
-setTimeout(function(){ img3.style.opacity = "0"; }, 7000);
-setTimeout(function(){ img3.style.display = "none"; img1.style.display = "block"; img1.style.opacity = "1"; }, 7500);
+setTimeout(function(){
+  img1.style.opacity = "0";
+  setTimeout(function() {
+    img1.style.display = "none"; 
+    img2.style.display = "block";
+    setTimeout(function() {
+      img2.style.opacity = "1";
+    }, 500);
+  }, 500);
+}, 5000);
+
+setTimeout(function(){
+  img2.style.opacity = "0";
+  setTimeout(function() {
+    img2.style.display = "none"; 
+    img3.style.display = "block";
+    setTimeout(function() {
+      img3.style.opacity = "1";
+    }, 500);
+  }, 500);
+}, 10000);
+
+setTimeout(function(){
+  img3.style.opacity = "0";
+  setTimeout(function() {
+    img3.style.display = "none"; 
+    img1.style.display = "block";
+    img1.style.opacity = "1";
+  }, 500);
+}, 15000);
 </script>
 
 
