@@ -22,13 +22,13 @@ Students will be challenged to learn STEM principals including coding, how to de
 A successful season with FRC 8426 isn’t a grind towards an award. For us, a successful season is one that ends with students excited about pursuing deeper levels of mastery in robotics, stem, and academics.
 
 <div style="position: relative; width: 600px; height: 400px;">
-  <img src="assets/team-pic.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;"/>
-  <img src="assets/charged-up-logo.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;"/>
-  <img src="assets/Robotplacingcone.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;"/>
+  <img src="assets/team-pic.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;" id="image1"/>
+  <img src="assets/charged-up-logo.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;" id="image2"/>
+  <img src="assets/Robotplacingcone.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;" id="image3"/>
 </div>
 
 <script>
-var images = document.getElementsByTagName('img');
+var images = [document.getElementById('image1'), document.getElementById('image2'), document.getElementById('image3')];
 var current = 0;
 
 function nextImage() {
@@ -39,7 +39,6 @@ function nextImage() {
 
 setInterval(nextImage, 3000); // change image every 3 seconds
 </script>
-
 ## When 
 Team 8426 starts in October and run through April 1st. Meetings are once a week before the challenge is issued in January, but we move to 3-4 meetings a week when the challenge is issued in January.
 
