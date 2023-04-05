@@ -37,7 +37,7 @@ function nextImage() {
   images[current].style.opacity = 1;
 }
 
-setInterval(nextImage, 3000); // change image every 3 seconds
+setInterval(nextImage, 5000); // change image every 5 seconds
 </script>
 ## When 
 Team 8426 starts in October and run through April 1st. Meetings are once a week before the challenge is issued in January, but we move to 3-4 meetings a week when the challenge is issued in January.
