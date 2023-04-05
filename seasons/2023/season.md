@@ -3,7 +3,7 @@ layout: content
 title: Season Build Log
 ---
 
-The 2023 FRC Season "Charged Up!" is in full swing! We have completed most of the updates before the state competition. However, we are planning to make some additional upgrades to our robot to improve its performance.
+The 2023 FRC Season "Charged Up!" is in full swing! We have completed most of the updates before the state competition. However, we are planning to make some additional upgrades to our robot after competition to improve its performance.
 
 ![](/assets/Robotplacingcone.jpg)
 
