@@ -36,12 +36,38 @@ title: FRC Event
 ```
 {: .big}
 
-## Key Student Responsibilities
+### Chaperone Contact Information
+* Chris Pall - (734)395-6819
+* Sibasis Sahoo - (734)330-7071
+* Srinivas Mummidivarapu - (614)354-3475
+* Lauren Lundquist - 248-798-9410
+
+### Key Student Responsibilities
 * Scouting (probably useful at states because we don't know our opponents)
 * Be available to help address robot issues
 * Answering judges questions
 * Producing documentation for later (us at the pits, videos of us in competition)
 * Learning for next year, taking inspiration from other pits, robots and processes
+
+### Drivers/Students (these may be adjusted on Wed night at latest, will update to reflect)
+* Sibasis: Konark, Pranav, Sanjith, Sanvi 
+* Srinivas: Hansini, Manasa
+* Chris: Nathan, Hanna, Ishaan, Pranaov
+* Lauren: Aiden *UHAUL
+
+##### Other volunteers:
+* Vijayakumar, Kalpana
+* Kokkarne Namrata
+* Mitra Mahua
+
+### Rooms Assignments
+1. Rathul/Sanjith/Konark/Ishaan
+2. Pranaov/Pranav/Nathan
+3. Sanvi/Hansini/Hanna/Manasa
+
+4. Lauren/Aiden
+5. Chris/Sibasis
+6. Guru/Srinivas
 
 ## Timeline
 * Thursday
