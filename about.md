@@ -20,8 +20,25 @@ We focus on:
 Students will be challenged to learn STEM principals including coding, how to design and fabricate robot parts, and how a group of engineers coordinates a large project towards a single goal. 
 
 A successful season with FRC 8426 isn’t a grind towards an award. For us, a successful season is one that ends with students excited about pursuing deeper levels of mastery in robotics, stem, and academics.
+<div>
+  <img src="assets/team-pic.jpg" style="opacity:1;transition:opacity 1s ease-in-out;"/>
+  <img src="assets/centered-logo-trimmed.jpg" style="opacity:0;transition:opacity 1s ease-in-out;"/>
+  <img src="assets/charged-up-logo.jpg" style="opacity:0;transition:opacity 1s ease-in-out;"/>
+  <img src="assets/Robotplacingcone.jpg" style="opacity:0;transition:opacity 1s ease-in-out;"/>
+</div>
 
-![team picture](assets/team-pic.jpg){: width="100%"}
+<script>
+var images = document.querySelectorAll("div img");
+var index = 0;
+
+function nextImage() {
+  images[index].style.opacity = "0";
+  index = (index + 1) % images.length;
+  images[index].style.opacity = "1";
+}
+
+setInterval(nextImage, 5000); // change image every 5 seconds
+</script>
 
 ## When 
 Team 8426 starts in October and run through April 1st. Meetings are once a week before the challenge is issued in January, but we move to 3-4 meetings a week when the challenge is issued in January.
