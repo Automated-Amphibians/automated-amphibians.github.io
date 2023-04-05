@@ -21,50 +21,22 @@ Students will be challenged to learn STEM principals including coding, how to de
 
 A successful season with FRC 8426 isn’t a grind towards an award. For us, a successful season is one that ends with students excited about pursuing deeper levels of mastery in robotics, stem, and academics.
 
-<div style="position: relative; width: 100%; height: 500px; overflow: hidden;">
-  <img src="assets/charged-up-logo.jpg" style="position: absolute; top: 0; left: 0; opacity: 1; animation: delay-fade 5s infinite;" />
-  <img src="assets/team-pic.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; animation: delay-fade 5s infinite;" />
-  <img src="assets/Robotplacingcone.jpg" style="position: absolute; top: 0; left: 0; opacity: 0; animation: delay-fade 5s infinite 5s;" />
-</div>
+![team picture](assets/team-pic.jpg){: width="100%" id="image1"}
+![charged up logo](assets/charged-up-logo.jpg){: width="100%" id="image2" style="display:none"}
+![Robot placing cone](assets/Robotplacingcone.jpg){: width="100%" id="image3" style="display:none"}
 
-<style>
-@keyframes fade {
-  0% {
-    opacity: 1;
-  }
-  20% {
-    opacity: 0;
-  }
-  80% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-</style>
+<script>
+var img1 = document.getElementById("image1");
+var img2 = document.getElementById("image2");
+var img3 = document.getElementById("image3");
 
-@keyframes delay-fade {
-  0% {
-    opacity: 0;
-  }
-  16.666% {
-    opacity: 0;
-  }
-  33.333% {
-    opacity: 1;
-  }
-  66.666% {
-    opacity: 1;
-  }
-  83.333% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 0;
-  }
-}
-</style>
+setTimeout(function(){ img1.style.opacity = "0"; }, 2000);
+setTimeout(function(){ img1.style.display = "none"; img2.style.display = "block"; }, 2500);
+setTimeout(function(){ img2.style.opacity = "0"; }, 4500);
+setTimeout(function(){ img2.style.display = "none"; img3.style.display = "block"; }, 5000);
+setTimeout(function(){ img3.style.opacity = "0"; }, 7000);
+setTimeout(function(){ img3.style.display = "none"; img1.style.display = "block"; img1.style.opacity = "1"; }, 7500);
+</script>
 
 
 ## When 
