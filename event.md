@@ -18,51 +18,60 @@ title: FRC Event
 </style>
 # Michigan State Competition
 
-### Address
+### Addresses
+Hotel
+```
+    Hampton Inn
+    2695 Tittabawassee Road
+    Saginaw, Michigan, 48604, USA
+    +1 989-797-2220
+```
+{: .big}
 
+Event
+```
     Saginaw Valley State University
     Ryder Center 7400 Bay Road
     University Center, MI USA
-
+```
+{: .big}
 
 ## Key Student Responsibilities
-This weeks [todo](todo) list.
+This weeks [todo](/team/2023/todo) list.
 
-* Be available to help address robot issues
 * Scouting (probably useful at states because we don't know our opponents)
+* Be available to help address robot issues
 * Answering judges questions
 * Producing documentation for later
-* Learning for next year
-
+* Learning for next year, taking inspiration from other pits, robots and processes
 
 ## Timeline
 * Thursday
     * 7am-9:30am - Loadin (just dropping stuff off)
     * 9:30am - Pits open (setting up)
-
+    * 5pm event starts
 * Fri. 
-    * 8am - Pits open, this is a fine time to arrive Finish should be sometime around 6:30-7
+    * 8am pits open
 * Sat. 
     * 8am - Pits open, this is a fine time to arrive
     * Finish should be sometime around 7
 
-## Where
-```
-    Churchhill High School
-    8900 Newburgh Road
-    Livonia, MI 48150
-```
-{: .big}
-
-[Google Maps](https://goo.gl/maps/t3RRNmZdkM5NFLgb8)
-
 ## Food
 We will have limited water, please bring your own bottle.
 
-* Breakfast - Bagels, Banannas, Apples (hotel breakfast)
-* Lunch Thursday - 
-* Lunch Friday - 
-* Dinner Thu/Fri - 
+* Breakfast - Hotel breakfast
+* Thursday 
+    * Breakfast - not sure
+    * Lunch - 
+    * Dinner
+* Friday
+    * Breakfast - hotel
+    * Lunch - 
+    * Dinner
+* Saturday
+    * Breakfast - hotel
+    * Lunch - 
+    * Dinner - 
 
 ## Competition 
 Basic overview:
@@ -71,10 +80,6 @@ Basic overview:
 
 ### Pit Crew
 * We hopefully will have a handout for basic robot information
-
-### Robot pit crew
-* Battery Team will remain the same from the first competition
-* We need to inspect the swerves after every other match
 
 ### Transportation - Riding with another team member
 **You can only provide transportation for other team members as an approved volunteer.**{: .important}

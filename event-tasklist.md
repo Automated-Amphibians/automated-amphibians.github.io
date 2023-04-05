@@ -1,52 +1,26 @@
 Small tasklist
 --------
 * Assigning rooms based on advice/preferences, deciding whether to grab more room
-
 * Uhaul/driving
-* Janelle: Find out about Panasonic -- other vendors
-* Figure out Food - doing with Frog Force?
-* Order more buttons - done
 * Backdrop/table clothes - inquired
-* Banners/customize - 
+* Banners/customize 
 * Numbers for stands?
 * Handout sheet Robot/team information
-* Learning about judging/talkinmg to judges, learning about robot
-* Make sure we email the school
+* Learning about judging/talking to judges, learning about robot
+* Make sure we email the school (done)
 
------------
-Vijay
-PK wobot 141
------------
+### Rides
 
+Chris: Nathan, Hanna, Ishaan, Pranov, Rathul
+Lauren: Aiden *UHAUL
+Sibasis: Konark, Pranav, Sanjith, Sanvi 
+Srinivas: Hansini, Manasa
 
-Ishaan
-
-Who's going
-========
-Nathan/Chris - not particular
-Lauren/Aiden - not particular
-
-Mahua & Sibasis (may not be all days)/Konark - not particular
-Babu?/Rathul - 
-Parent/Sanjith - not particular
-Pranav - not too particular
-
-Guru/Sanvi - 
-Srinivas/Hansini - 
-Hanna - ?
-Manasa - no particular
-----------
-Rides:
-Chris: Nathan, Hanna, Manasa, Sanvi, Sanjith, Pranav
-Parent Drive: Pranov (not confirmed)
-Lauren: Aiden
-Sibasis: Konark
-Babu: Rathul (not confirmed)
-Srinivas: Hansini
+Srinivas not an official driver
 
 ----------
 Rooms:
-1. Rathul/Sanjith/Konark
+1. Rathul/Sanjith/Konark/Ishaan
 2. Pranaov/Pranav/Nathan
 3. Sanvi/Hansini/Hanna/Manasa
 
@@ -56,18 +30,5 @@ Rooms:
 
 Food
 ----------
-Frog Force option if possible -- bring a check
+See Frog Force powerpoint
 Lauren/Sibasis volunteering for food
-
------------
-Sanjith
-Hanna/Ride up
-Pranav
-
-Sanvi/Manasa (riding w/Guru)
-
-:::: Sanjith/Hansini
-
-Chris
-Lauren - License/Register/Insurance
-

@@ -6,12 +6,14 @@ title: TODO
 Last updated: Mar 7th
 
 #### Before Competition Ideally (in order of importance)
-* Fix!: Pulleys
-* Fix!: Wiring (replace section with ) -- additionally we should cut off the part that the wiring gets caught up on
+* Fix!: Pulleys?
+* Fix!: Cut off the part that the wiring gets caught up on
 * Fix!: Arm hardstops
+* Build: Update tread on wheels
+* Code: A little bit more nimbleness?
+
 * Build: Improve driver station -- LEDs, shortening
 * Build: Add a cart table/push
-* Build: Update tread on wheels
 * Build: Add angle bracing?
 * Build: Fix up robot signal light?
 * Coding: Photonvision configuration - fix static ip configuration
@@ -23,19 +25,6 @@ Last updated: Mar 7th
 * Marketing/Fundraising/Documentation: Update website
 * Marketing/Fundraising/Documentation: Write letters
 * Marketing/Fundraising/Documentation: Add a sponsor panel
-
-#### Competition Preperation
-* Who will be taking care of ... ?
-    * Batteries (Aidan, Hansini)
-    * Inspecting and fixing wiring (Konark)
-    * Inspecting and fixing mechanical (Nathan, Hanna)
-    * Technicians during inspection (Sanjith/Konark/Nathan/Aidan/Hanna)
-* Who are the five reps on the field?
-    * Two drivers (Nathan, Aidan), (Konark?, Sanjith?) -- (not 100% set, students still need more time on robot)
-    * Drive coach (Pall)
-    * Human player (Sanjith)
-    * Technician (?) (Luke, Pranav, Pranaov)
-* Unassigned team members: Sanvi, Rathul, Manasa, Ishaan
 
 #### TODO ASAP
 * Build: Could stand to tighten/fix up surgical tubing
