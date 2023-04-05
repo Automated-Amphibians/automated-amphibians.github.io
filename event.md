@@ -63,10 +63,13 @@ Event Information: [https://firstinmichigan.us/FRC/state-championship/](https://
 
 ### What to do
 * Scouting (will have a handout for what to look for)
+    * Sanvi lead - grab additional students
 * Be available to help address robot issues
 * Producing documentation for later (us at the pits, videos of us in competition)
 * Learning for next year, taking inspiration from other pits, robots and processes
 * Watcha and cheer for our team! Look for the schedule!
+* Event Writeup - 
+* Pictures - Pranav?
 
 ### Drivers/Students (these may be adjusted on Wed night at latest, will update to reflect)
 * Sibasis: Konark, Pranav, Sanjith, Sanvi 
