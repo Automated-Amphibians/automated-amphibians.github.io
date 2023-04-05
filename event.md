@@ -50,12 +50,17 @@ Event Information: [https://firstinmichigan.us/FRC/state-championship/](https://
 * Srinivas Mummidivarapu - (614)354-3475
 * Lauren Lundquist - 248-798-9410
 
-### Key Student Responsibilities
-* Scouting (probably useful at states because we don't know our opponents)
+### What to bring
+* Bring safety glasses
+* Money for concession (optional)
+* Water bottle
+
+#### What to do
+* Scouting (will have a handout for what to look for)
 * Be available to help address robot issues
-* Answering judges questions
 * Producing documentation for later (us at the pits, videos of us in competition)
 * Learning for next year, taking inspiration from other pits, robots and processes
+* Watcha and cheer for our team! Look for the schedule!
 
 ### Drivers/Students (these may be adjusted on Wed night at latest, will update to reflect)
 * Sibasis: Konark, Pranav, Sanjith, Sanvi 
@@ -76,6 +81,12 @@ Event Information: [https://firstinmichigan.us/FRC/state-championship/](https://
 4. Lauren/Aiden
 5. Chris/Sibasis
 6. Guru/Srinivas
+
+### Team Information
+* Captain: Aiden
+* Drivers: Aiden/Nathan
+* Human Players: Sanvi/Hansini/Manasa (Sanvi to start, rotate in groups of 3 games)
+* Technicians: Ishaan (others?) (rotation)
 
 ## Timeline
 * Thursday
@@ -116,13 +127,7 @@ Event Information: [https://firstinmichigan.us/FRC/state-championship/](https://
     * 6:30pm - Depart
 {:.test}
 
-## Food notes
-(food schedule is above)
 
-We will have limited water, please bring your own bottle.
-
-### Pit Crew
-* We hopefully will have a handout for basic robot information
 
 ### Transportation - Riding with another team member
 **You can only provide transportation for other team members as an approved volunteer.**{: .important}
