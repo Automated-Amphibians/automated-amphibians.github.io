@@ -26,6 +26,9 @@ layout: scouting
     <option>unsure</option><option>1-2</option><option>3-4</option><option>5-7</option><option>8+</option>
 </select></div>
 
+<div class="form-label"><label>Expected Score:</label></div><div><select name="bot_placement" value="differential">
+    <option>unsure</option><option>1-2</option><option>3-4</option><option>5-7</option><option>8+</option>
+</select></div>
 
 <div class="form-label"><label>Smallest Dimension:</label></div><div><input name="bot_dimension" value="26"></div>
 <div class="form-label">Auto:</div><div>

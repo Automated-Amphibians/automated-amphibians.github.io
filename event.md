@@ -19,64 +19,72 @@ title: FRC Event
 # Michigan State Competition
 
 ### Addresses
-Hotel
+[Hampton Inn Hotel](https://goo.gl/maps/9mCnvK3RXqZGWQfE7)
 ```
     Hampton Inn
     2695 Tittabawassee Road
-    Saginaw, Michigan, 48604, USA
+    Saginaw, Michigan, 48604
     +1 989-797-2220
 ```
 {: .big}
 
-Event
+[Event Address](https://goo.gl/maps/7AgozLSptwfoVZq39)
 ```
     Saginaw Valley State University
     Ryder Center 7400 Bay Road
-    University Center, MI USA
+    University Center, MI 48710
 ```
 {: .big}
 
 ## Key Student Responsibilities
-This weeks [todo](/team/2023/todo) list.
-
 * Scouting (probably useful at states because we don't know our opponents)
 * Be available to help address robot issues
 * Answering judges questions
-* Producing documentation for later
+* Producing documentation for later (us at the pits, videos of us in competition)
 * Learning for next year, taking inspiration from other pits, robots and processes
 
 ## Timeline
 * Thursday
-    * 7am-9:30am - Loadin (just dropping stuff off)
-    * 9:30am - Pits open (setting up)
-    * 5pm event starts
-* Fri. 
-    * 8am pits open
-* Sat. 
-    * 8am - Pits open, this is a fine time to arrive
-    * Finish should be sometime around 7
-
-## Food
-We will have limited water, please bring your own bottle.
-
-* Breakfast - Hotel breakfast
-* Thursday 
-    * Breakfast - not sure
-    * Lunch - 
-    * Dinner
+    * 6:45am - Arrive at Novi High School Athletic Entrance 
+    * 7:00am - Leave NHS
+    * 8:30am - (approximately) Arrive at SVSU, drop off robot equipment
+    * 9:00am - If time allows or it makes sense, take luggage etc.. and drop off at hotel
+    * 9:30am - Head back to SVSU for inspection
+    * 10:30am - Practice Matches
+    * 1:00pm - Lunch at Doan's Market 
+    * 2:00pm - Practice Matches (until 3:30)
+    * 3:30pm - If it hasn't been done already, tune balance routine
+    * 5:00pm - Opening ceremonies
+    * 5:30pm - Qualifiying matches (until 8:30)
+    * 9:00pm - pits close, return to hotel, dinner
 * Friday
-    * Breakfast - hotel
-    * Lunch - 
-    * Dinner
-* Saturday
-    * Breakfast - hotel
-    * Lunch - 
-    * Dinner - 
+    * 6:50am - Breakfast at hotel
+    * 7:35am - Team should be starting to vehicles to goto event
+    * 8:00am - Pits open
+    * 9:00am - opening ceremonies
+    * 9:30am - Qualification matches
+    * 1:00pm - Lunch at Hamilton Gym
+    * 2pm    - Qualification matches (until 6pm)
+    * 6:30pm - Alliance selections
+    * 8:30pm - Pits close, return to hotel
+    * 8:30pm - Dinner at Hotel
+* Saturday 
+    * 6:50am - Breakfast at hotel   
+    * 7:30am - Check-out, come down with bags
+    * 8:00am - Pits open, arrive at SVSU
+    * 9:00am - opening ceremonies
+    * 9:30am - divisional playoffs
+    * 12:30pm - divisional awards
+    * 1:00pm - Lunch at Hamilton Gym
+    * 2:30pm - divisional playoffs (until 4pm)
+    * 4:00pm - Final awards
+    * 6:00pm - pits close, pack uhaul
+    * 6:30pm - Depart
 
-## Competition 
-Basic overview:
+## Food notes
+(food schedule is above)
 
-* 160 teams at the 
+We will have limited water, please bring your own bottle.
 
 ### Pit Crew
 * We hopefully will have a handout for basic robot information
@@ -92,12 +100,6 @@ Basic overview:
 **To ride with another team member you must fill out the transportation waiver:**
 
 * [Transportation Waiver](Transportation%20Waiver.pdf)
-
-### Useful Coaching Links
-* [Strategy](team/2023/strategy)
-* [Details On FRC Competition Structure](https://www.firstinspires.org/resource-library/frc/championship-information)
-* [Field Map and scoring details](https://i.redd.it/fontihnhqoaa1.png)
-* [Drive coach notes](team/2023/game-time)
 
 ### Drive Team Personell
 * Please let me know if you are interested in being a human player. Human players will need to get in a half hour of practice and we will go through a briefing of exactly what happens during the match. It can be learned quickly, but it does require the human player to move and react fairly quickly.

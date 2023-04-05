@@ -11,12 +11,16 @@ Small tasklist
 
 ### Rides
 
-Chris: Nathan, Hanna, Ishaan, Pranov, Rathul
-Lauren: Aiden *UHAUL
 Sibasis: Konark, Pranav, Sanjith, Sanvi 
 Srinivas: Hansini, Manasa
+Chris: Nathan, Hanna, Ishaan, Pranov
+Lauren: Aiden *UHAUL
 
-Srinivas not an official driver
+Other volunteers:
+--------
+Vijayakumar, Kalpana
+Kokkarne Namrata
+Mitra Mahua
 
 ----------
 Rooms:
