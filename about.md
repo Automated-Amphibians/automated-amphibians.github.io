@@ -21,45 +21,56 @@ Students will be challenged to learn STEM principals including coding, how to de
 
 A successful season with FRC 8426 isn’t a grind towards an award. For us, a successful season is one that ends with students excited about pursuing deeper levels of mastery in robotics, stem, and academics.
 
-![team picture](assets/team-pic.jpg){: width="100%" id="image1"}
-![charged up logo](assets/charged-up-logo.jpg){: width="100%" id="image2" style="display:none"}
-![Robot placing cone](assets/Robotplacingcone.jpg){: width="100%" id="image3" style="display:none"}
+<img src="assets/team-pic.jpg" id="image1" style="width:100%">
+<img src="assets/charged-up-logo.jpg" id="image2" style="width:100%;display:none">
+<img src="assets/Robotplacingcone.jpg" id="image3" style="width:100%;display:none">
 
 <script>
 var img1 = document.getElementById("image1");
 var img2 = document.getElementById("image2");
 var img3 = document.getElementById("image3");
 
-setTimeout(function(){
-  img1.style.opacity = "0";
-  setTimeout(function() {
-    img1.style.display = "none"; 
-    img2.style.display = "block";
-    setTimeout(function() {
-      img2.style.opacity = "1";
-    }, 500);
-  }, 500);
-}, 5000);
+function fadeIn(elem, ms) {
+  var op = 0;
+  elem.style.display = 'block';
+  var timer = setInterval(function () {
+    if (op >= 1) clearInterval(timer);
+    elem.style.opacity = op;
+    elem.style.filter = 'alpha(opacity=' + op * 100 + ")";
+    op += op * 0.1 || 0.1;
+  }, ms / 10);
+}
 
-setTimeout(function(){
-  img2.style.opacity = "0";
-  setTimeout(function() {
-    img2.style.display = "none"; 
-    img3.style.display = "block";
-    setTimeout(function() {
-      img3.style.opacity = "1";
-    }, 500);
-  }, 500);
-}, 10000);
+function fadeOut(elem, ms) {
+  var op = 1;
+  var timer = setInterval(function () {
+    if (op <= 0) {
+      clearInterval(timer);
+      elem.style.display = 'none';
+    }
+    elem.style.opacity = op;
+    elem.style.filter = 'alpha(opacity=' + op * 100 + ")";
+    op -= op * 0.1 || 0.1;
+  }, ms / 10);
+}
 
-setTimeout(function(){
-  img3.style.opacity = "0";
+setInterval(function(){
+  fadeIn(img2, 2000);
   setTimeout(function() {
-    img3.style.display = "none"; 
-    img1.style.display = "block";
-    img1.style.opacity = "1";
-  }, 500);
+    fadeOut(img1, 2000);
+  }, 5000);
+  setTimeout(function() {
+    fadeIn(img3, 2000);
+  }, 7000);
+  setTimeout(function() {
+    fadeOut(img2, 2000);
+  }, 10000);
+  setTimeout(function() {
+    fadeIn(img1, 2000);
+  }, 12000);
 }, 15000);
+
+fadeIn(img1, 2000); // start with first image
 </script>
 
 
