@@ -22,7 +22,7 @@ Students will be challenged to learn STEM principals including coding, how to de
 A successful season with FRC 8426 isn’t a grind towards an award. For us, a successful season is one that ends with students excited about pursuing deeper levels of mastery in robotics, stem, and academics.
 
 <div style="position: relative; width: 600px; height: 400px;">
-  <img src="assets/team-pic.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;" id="image1"/>
+  <img src="assets/TEAM.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;" id="image1"/>
   <img src="assets/charged-up-logo.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;" id="image2"/>
   <img src="assets/Robotplacingcone.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;" id="image3"/>
 </div>
