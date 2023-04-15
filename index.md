@@ -29,18 +29,27 @@ keywords: frc, automated amphibians, robotics
 
 [The Automated Amphibians](about) are a [FIRST FRC](https://www.firstinspires.org/robotics/frc) team based out of Novi High School. 
 
-FRC Team 8426 was founded in 2020, first competed in 2022 and is looking forward to competing in the 2023 Charged Up! competition.
+Automated Amphibians is proud to announce it has qualified for a trip to FRC Worlds Competition! See you in Houston!
 
-![team picture](assets/TEAM.jpg){: width="100%"}
+<div style="position: relative; width: 800px; height: 600px;">
+  <img src="assets/team-latest.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;" id="image1"/>  
+  <img src="assets/Robotplacingcone.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;" id="image3"/>
+</div>
 
-Automated Amphibians is proud to be sponsored by and utilize tools by:
+<script>
+var images = [document.getElementById('image1'), document.getElementById('image3')];
+var current = 0;
 
-[
-![autodesk](assets/autodesk-logo.png){:.logo}
-](https://www.autodesk.com/education/competitions/first)
+function nextImage() {
+  images[current].style.opacity = 0;
+  current = (current + 1) % images.length;
+  images[current].style.opacity = 1;
+}
+setInterval(nextImage, 5000); // change image every 5 seconds
+</script>
 
 
-An amazing company with a strong Michigan presence supporting FIRST teams! Thank you!
+
 {% comment %} 
 
 Sidebar can be for latest stuff?
@@ -54,4 +63,3 @@ MVP:
     Things we've published (blog, video?) 
 
 {% endcomment %} 
-
