@@ -5,6 +5,28 @@ title: TODO
 ---
 Last updated: Mar 7th
 
+
+#### Before Worlds
+* IMPORTANT FOR TRIP
+    * DONE - Make sure the hotels are in my name -- they are
+    * Figure out renting a car -- ok
+    * Collect, make sure all papers are there 
+
+* Figure out what we need to do about the hotel arrangements at States Sibasis -- settle!
+* Did Lauren submit the uhaul bill? -- it was our bill
+* Get the actual balance of our account? Do I really want to know?
+* What kind of ID do kids need?
+
+* Send a letter describing how happy we are that Nachi is now a sponsor -- tell them the dates wer are going to use
+    Wed May 10th (3:30pm) -- we won't be able to demo as the robot won't necessarily be back by then
+    Wed May 31st (3:30pm)
+    Tue June 13/14/15th (3:30pm - flexible)
+    
+* Determine where we've spent money for worlds, then figure out how much everyone owes
+    * Notify everyone that they need to bring in checks for the trip
+
+
+
 #### Before Competition Ideally (in order of importance)
 * Fix!: Pulleys?
 * Fix!: Cut off the part that the wiring gets caught up on
