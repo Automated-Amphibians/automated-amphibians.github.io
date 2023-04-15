@@ -31,7 +31,7 @@ keywords: frc, automated amphibians, robotics
 
 FRC Team 8426 was founded in 2020, first competed in 2022 and is looking forward to competing in the 2023 Charged Up! competition.
 
-![team picture](assets/team-pic.jpg){: width="100%"}
+![team picture](assets/TEAM.jpg){: width="100%"}
 
 Automated Amphibians is proud to be sponsored by and utilize tools by:
 
