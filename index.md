@@ -31,21 +31,13 @@ keywords: frc, automated amphibians, robotics
 
 Automated Amphibians is proud to announce it has qualified for a trip to FRC Worlds Competition! See you in Houston!
 
-<div style="position: relative; width: 800px; height: 600px;">
+<div id="slideshow1" style="position: relative; width: 800px; height: 600px;">
   <img src="assets/team-latest.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;" id="image1"/>  
   <img src="assets/Robotplacingcone.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;" id="image3"/>
 </div>
 
 <script>
-var images = [document.getElementById('image1'), document.getElementById('image3')];
-var current = 0;
-
-function nextImage() {
-  images[current].style.opacity = 0;
-  current = (current + 1) % images.length;
-  images[current].style.opacity = 1;
-}
-setInterval(nextImage, 5000); // change image every 5 seconds
+  makeSlideshow("#slideshow1 img");
 </script>
 
 
