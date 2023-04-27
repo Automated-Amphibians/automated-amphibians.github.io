@@ -27,7 +27,7 @@ keywords: frc, automated amphibians, robotics
     }
 </style>
 
-[The Automated Amphibians](about) are a [FIRST FRC](https://www.firstinspires.org/robotics/frc) team based out of Novi High School. 
+[The Automated Amphibians](about) is a [FIRST FRC](https://www.firstinspires.org/robotics/frc) team based out of Novi High School. 
 
 Automated Amphibians is proud to announce it has qualified for a trip to FRC Worlds Competition! See you in Houston!
 
