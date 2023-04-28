@@ -14,32 +14,37 @@
 <style>
     /* https://web.dev/aspect-ratio/ */
     .slideshow {
-        position: relative; 
-        width: 100%;
-        height: 100%;
-        /*width: 600px; 
-        height: 400px;*/
+        display: inline-block;
+        /*width: 100%;
+        height: 100%;*/
+        width: 800px; 
+        height: 700px;
     }
     .slideshow > img {
         position: absolute; 
-        width: 100%; 
-        height: 100%; 
+        /*width: 100%; 
+        height: 100%; */
         opacity: 0; 
         object-fit: contain;
         transition: opacity 1s ease-in-out;
+        max-width: 800px;
+        max-height: 700px;
     }
     .slideshow > img:nth-child(1) {
         opacity: 1;
     }    
+    h1, h2, h3 {
+        margin-top: 2rem;
+    }
 </style>
 <script>
 function makeSlideshow(cssQuery) {
     var images = [];document.querySelectorAll(cssQuery).forEach(function(i) {images.push(i);});
     var current = 0;
     function nextImage() {
-    images[current].style.opacity = 0;
-    current = (current + 1) % images.length;
-    images[current].style.opacity = 1;
+        images[current].style.opacity = 0;
+        current = (current + 1) % images.length;
+        images[current].style.opacity = 1;
     }
     setInterval(nextImage, 5000); // change image every 5 seconds
     return images;
