@@ -105,11 +105,10 @@ A successful season with FRC 8426 isn’t a grind towards an award. For us, a su
 </div>
 
 <div class="box" markdown=1>
-### Gold - $5,000 or greater
+### Gold - $4,000 or greater
 * Benefits of Silver + 
 * Logo on pit banner
 * Sponsor logo added to (future) robot trailer
-* Sponsor logo added to video trailers
 * Team T-Shirt
 </div>
 
@@ -117,6 +116,7 @@ A successful season with FRC 8426 isn’t a grind towards an award. For us, a su
 ### Silver - $1,500 or greater
 * Benefits of Bronze + 
 * Logo on robot (size and placement dependent on design, exceptions will apply)
+* Sponsor logo added to video trailers
 * Logo on t-shirt
 </div>
 
