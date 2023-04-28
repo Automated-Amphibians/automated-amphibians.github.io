@@ -39,6 +39,18 @@ A successful season with FRC 8426 isn’t a grind towards an award. For us, a su
     text-align: center;
     
 }
+.boxy {
+    display: inline-block;
+    border: solid 1px #eee;
+    padding: 0.5em;
+    margin: 0.5em;
+    width: 80%;
+    padding: 0em 1.25em;
+}
+.boxy h3 {
+    margin-top: 0.25em;
+    
+}
 </style>
 <div class="box" markdown=1>
 #### Registration Fees 
@@ -97,30 +109,31 @@ A successful season with FRC 8426 isn’t a grind towards an award. For us, a su
 </div>
 
 ## Sponsorship Levels
-<div class="box" markdown=1>
+<div class="boxy" markdown=1>
 ### Platinum - $10,000 or greater
 * Benefits of Gold + 
 * Team Polo Shirt
-* Name added to announcements at competitions and listed on FIRST website
+* Company name added to announcements at competitions and listed on FIRST website
 </div>
 
-<div class="box" markdown=1>
+<div class="boxy" markdown=1>
 ### Gold - $4,000 or greater
 * Benefits of Silver + 
 * Logo on pit banner
-* Sponsor logo added to (future) robot trailer
+* Sponsor logo added to (future) robot travel trailer
+* Logo on robot (size and placement dependent on design)
 * Team T-Shirt
 </div>
 
-<div class="box" markdown=1>
+<div class="boxy" markdown=1>
 ### Silver - $1,500 or greater
 * Benefits of Bronze + 
-* Logo on robot (size and placement dependent on design, exceptions will apply)
 * Sponsor logo added to video trailers
-* Logo on t-shirt
+* Logo on all print materials, robot documentation etc..
+* Logo on t-shirt (size permitting)
 </div>
 
-<div class="box" markdown=1>
+<div class="boxy" markdown=1>
 ### Bronze - $250 or greater 
 * Logo on website
 </div>
