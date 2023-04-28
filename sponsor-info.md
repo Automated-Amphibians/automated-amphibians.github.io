@@ -114,7 +114,7 @@ A successful season with FRC 8426 isn’t a grind towards an award. For us, a su
 </div>
 
 <div class="box" markdown=1>
-### Silver - $1,000 or greater
+### Silver - $1,500 or greater
 * Benefits of Bronze + 
 * Logo on robot (size and placement dependent on design, exceptions will apply)
 * Logo on t-shirt
