@@ -125,7 +125,6 @@ The Amphibians are chartered under the Novi Community School District so donatio
 ### Gold - $3,000 or greater
 * Benefits of Silver + 
 * Logo on pit banner
-* Newsletter, 
 * Logo on robot (size and placement dependent on design)
 * Team T-Shirt
 </div>
@@ -134,6 +133,7 @@ The Amphibians are chartered under the Novi Community School District so donatio
 ### Silver - $1,500 or greater
 * Benefits of Bronze + 
 * Sponsor logo added to video trailers 
+* Newsletter
 * Logo on all print materials, robot documentation etc..
 * Logo on t-shirt (size permitting)
 </div>
