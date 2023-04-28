@@ -27,9 +27,9 @@ keywords: frc, automated amphibians, robotics
     }
 </style>
 
-[The Automated Amphibians](about) is a [FIRST FRC](https://www.firstinspires.org/robotics/frc) team based out of Novi High School. 
+The [Automated Amphibians](about) are a [FIRST robotics](https://www.firstinspires.org/robotics/frc) team based out of Novi High School. 
 
-Automated Amphibians is proud to announce it has qualified for a trip to FRC Worlds Competition! See you in Houston!
+After a hard 2023 robot competition season, the Amphibians were able to travel to the Michigan State Championships, and then to the World Championships in Houston. Read all about the [2023 Amphibians season in our recap](/seasons/2023/season)!
 
 <div id="slideshow1" style="position: relative; width: 800px; height: 600px;">
   <img src="assets/team-latest.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;" id="image1"/>  
