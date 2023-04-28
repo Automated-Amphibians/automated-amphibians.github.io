@@ -13,7 +13,7 @@ We peer with FRC team [503 Frog Force](https://frogforce503.org/), whose student
 
 ![image]({{site.baseurl}}/assets/centered-logo-trimmed.jpg){: style="float: right;width:200px;margin-left: 2em"}
 
-**Team 8426 is built entirely from 9th grade students with little to no robotics experience prior to High School.** For students that have a busy Fall/Spring schedule due to sports or other committments, we have a reduced up front commitment to outreach projects; However, we still are developing a targeted outreach program that is focused on developing engineering at a sister team at either the FLL, FTC or even FRC level. More to follow as 8426 continues to gain experience.
+**Team 8426 is built entirely from 9th grade students with little to no robotics experience prior to High School.** For students that have a busy Fall/Spring schedule due to sports or other commitments, we have a reduced up front commitment to outreach projects; However, we still are developing a targeted outreach program that is focused on developing engineering at a sister team at either the FLL, FTC or even FRC level. More to follow as 8426 continues to gain experience.
 
 We focus on:
 * Developing curiosity and instincts about making, software development, and engineering principals of robot building
@@ -109,6 +109,8 @@ A successful season with FRC 8426 isn’t a grind towards an award. For us, a su
 </div>
 
 ## Sponsorship Levels
+The Amphibians are chartered under the Novi Community School District so donations are written to the NCSD directly. W9 form available upon request.
+
 <div class="boxy" markdown=1>
 ### Platinum - $10,000 or greater
 * Benefits of Gold + 
