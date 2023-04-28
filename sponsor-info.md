@@ -7,56 +7,49 @@ keywords: frc, automated amphibians, robotics, about
 ## Who we are:
 Automated Amphibians are a competitive robotics team in the [First Robotics Competition (FRC) league](https://www.firstinspires.org/robotics/frc).
 
+We build large, custom robots (80-125 lbs, 2x3x4 ft) that play a game designed by the FIRST organization in competition with other student built robots. In the process, students gain engineering skills.
+
 We peer with FRC team [503 Frog Force](https://frogforce503.org/), whose student and adult mentors help guide us in everything we do as well as providing some advanced services (practice field, CNC equipment) This helps to reduce our costs and gives us the ability to focus on the robot engineering.
 
-## What makes us unique?
-
-![image]({{site.baseurl}}/assets/centered-logo-trimmed.jpg){: style="float: right;width:200px;margin-left: 2em"}
-
-**Team 8426 is built entirely from 9th grade students with little to no robotics experience prior to High School.** For students that have a busy Fall/Spring schedule due to sports or other commitments, we have a reduced up front commitment to outreach projects; However, we still are developing a targeted outreach program that is focused on developing engineering at a sister team at either the FLL, FTC or even FRC level. More to follow as 8426 continues to gain experience.
-
-We focus on:
-* Developing curiosity and instincts about making, software development, and engineering principals of robot building
-* A hands on experience, primarily focused on engineering.
+## What we do, how we do it:
+* Help students develop curiosity and instincts about making, software development, engineering principals, and a business plan (for sustainability)
+* Give students a hands on experience. Students are most engaged when they are directly connected to their work
 * Maintaining a minimum of 3:1 student to mentor ratio
+* The goal is to maximize student autonomy and responsibility. Even as freshmen, our mentoring is focused on training students to be the mentors. This means understanding and being ready to:
+    * Design, prototype, and plan the robot assembly
+    * Research their own solution to problems that arise
+    * Mentor/train younger/newer students 
 
 Students will be challenged to learn STEM principals including coding, how to design and fabricate robot parts, and how a group of engineers coordinates a large project towards a single goal. 
 
 A successful season with FRC 8426 isn’t a grind towards an award. For us, a successful season is one that ends with students excited about pursuing deeper levels of mastery in robotics, stem, and academics.
 
+## What makes us unique to other FRC teams?
+
+![image]({{site.baseurl}}/assets/centered-logo-trimmed.jpg){: style="float: right;width:200px;margin-left: 2em"}
+
+**Team 8426 is built almost entirely from 9th grade students, many with little to no robotics experience prior to High School.**
+
+* We are a smaller team: currently a dozen members
+    * Team members have more time and opportunity to work directly with the robot in a variety of areas 
+* We are a younger team, both organizationally and our members are younger (all freshmen).
+    * Our team members are able to take more responsibility sooner 
+    * As a younger organization there are many areas to make a significant, lasting impact
+* We have *less requirements* on joining (though this does not imply lower expectations)
+    * We do not require community hours *up front*, but will encourage those that stay to give back
+    * We can accept new team members throughout the school year (within reason)
+
+ We still are developing a targeted outreach program that is focused on developing engineering at a team at either the FLL, FTC or even FRC level. More to follow as 8426 continues to gain experience.
+
 ![team picture](assets/team-pic.jpg){: width="100%"}
 
 ### Expenses for the Automated Amphibians
 
-<style>
-.box {
-    display: inline-block;
-    border: solid 1px #eee;
-    padding: 0.5em;
-}
-.box h4 {
-    background: #efefef;
-    text-align: center;
-    
-}
-.boxy {
-    display: inline-block;
-    border: solid 1px #eee;
-    padding: 0.5em;
-    margin: 0.5em;
-    width: 80%;
-    padding: 0em 1.25em;
-}
-.boxy h3 {
-    margin-top: 0.25em;
-    
-}
-</style>
 <div class="box" markdown=1>
 #### Registration Fees 
 * 2 District Events
 * States Events
-* First Championship
+* First World Championship
 * &quot;Offseason&quot; Competitions:
     * Bloomfield Girls
     * Taylor Big Bang
@@ -65,12 +58,12 @@ A successful season with FRC 8426 isn’t a grind towards an award. For us, a su
 </div>
 <div class="box" markdown=1>
 #### Robotics Materials Fees
-* Motors w/Controllers
-* Raw Materials (Aluminum, Polycarb)
-* Electronics
+* Motors w/Controllers &#10030;
+* Raw Materials (Aluminum, Polycarb) &#10030;
+* Electronics (Gyroscopes, encoders) &#10030;
 * Pneumatics
 * Hardware (bolts, axles, belts, rivets)
-* Laptops
+* Computers/Software
 
 #### $6,000
 </div>
@@ -89,40 +82,50 @@ A successful season with FRC 8426 isn’t a grind towards an award. For us, a su
 
 <div class="box" markdown=1>
 #### Equipment
-* Trailer
-* Tools
-* Tool Storage
-* Fabrication (3d printing, CNC)
+* Trailer &#10030;
+* Tools &#10030;
+* Tool Storage &#10030;
+* Fabrication (3d printing, CNC) &#10030; 
+* Pit Improvements &#10030; 
 
 #### $4,000
 </div>
 
-
 <div class="box" markdown=1>
 #### Travel Expenses
-* Hotel - State Championship
-* Bus - State Championship
-* Hotel - Worlds Championship
-* Airfare - Worlds Championship
+* State Championship
+    * Hotel
+    * Bus
+* FRC Worlds Championship
+    * Hotel/Airfare    
+    * Trailer Transport
 
-#### $7,000
+#### $9,000
 </div>
 
 ## Sponsorship Levels
 The Amphibians are chartered under the Novi Community School District so donations are written to the NCSD directly. W9 form available upon request.
 
+
+
 <div class="boxy" markdown=1>
-### Platinum - $10,000 or greater
-* Benefits of Gold + 
-* Team Polo Shirt
+### Diamond - $10,000 or greater
+* Benefits of Platinum + 
 * Company name added to announcements at competitions and listed on FIRST website
 </div>
 
 <div class="boxy" markdown=1>
-### Gold - $4,000 or greater
+### Platinum - $6,000 or greater
+* Benefits of Gold + 
+* Sponsor logo added to (future) robot travel trailer
+* Team Polo Shirt
+</div>
+
+<div class="boxy" markdown=1>
+### Gold - $3,000 or greater
 * Benefits of Silver + 
 * Logo on pit banner
-* Sponsor logo added to (future) robot travel trailer
+* Newsletter, 
 * Logo on robot (size and placement dependent on design)
 * Team T-Shirt
 </div>
@@ -130,7 +133,7 @@ The Amphibians are chartered under the Novi Community School District so donatio
 <div class="boxy" markdown=1>
 ### Silver - $1,500 or greater
 * Benefits of Bronze + 
-* Sponsor logo added to video trailers
+* Sponsor logo added to video trailers 
 * Logo on all print materials, robot documentation etc..
 * Logo on t-shirt (size permitting)
 </div>

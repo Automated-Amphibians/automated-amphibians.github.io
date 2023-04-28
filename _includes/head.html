@@ -10,8 +10,26 @@
 <script type="text/javascript" src="https://bootswatch.com/_vendor/jquery/dist/jquery.min.js"></script>
 <script type="text/javascript" src="https://bootswatch.com/_vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!--<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">-->
+
 <script id="insert"></script>
 <style>
+    body {
+        color: #181818;                        
+    }
+    h1:nth-child(1) {
+        margin-top: 0;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        color: #333;        
+    }
+    .nav-link {
+        color: var(--bs-link-hover-color);
+        font-weight: bold;
+    }
     /* https://web.dev/aspect-ratio/ */
     .slideshow {
         display: inline-block;
@@ -36,6 +54,28 @@
     h1, h2, h3 {
         margin-top: 2rem;
     }
+    .box {
+    display: inline-block;
+    border: solid 1px #eee;
+    padding: 0.5em;
+}
+.box h4 {
+    background: #efefef;
+    text-align: center;
+    
+}
+.boxy {
+    display: inline-block;
+    border: solid 1px #eee;
+    padding: 0.5em;
+    margin: 0.5em;
+    width: 80%;
+    padding: 0em 1.25em;
+}
+.boxy h3 {
+    margin-top: 0.25em;
+    
+}
 </style>
 <script>
 function makeSlideshow(cssQuery) {
