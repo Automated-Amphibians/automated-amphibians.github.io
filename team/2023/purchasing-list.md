@@ -14,6 +14,9 @@ layout: content
 * Tap and die set?
 
 
+Camera:
+https://www.uctronics.com/camera-modules/usb-uvc-camera-module/arducam-global-shutter-color-usb-1mp-ov9782-uvc-webcam-module.html
+
 https://www.chiefdelphi.com/t/1-4in-rivets-vs-3-16in-rivets/430486/9
 Discussion of rivets
 
@@ -112,3 +115,9 @@ https://www.andymark.com/categories/extrusion-structure
 
     
     * Regular portable toolbox (hand toolbox)
+
+* Intake
+
+Some teams use silicone, it tends to go on pretty tight, but it does work. Spectrum and [jack in the bot](https://www.chiefdelphi.com/t/2910-cad-and-tech-binder-release-2023/436653/29) did: 
+    * https://www.mcmaster.com/high-temperature-silicone-rubber/high-temperature-soft-rubber-tubing-for-air-and-water/
+    
