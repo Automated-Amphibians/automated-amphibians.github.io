@@ -60,11 +60,11 @@ div.quote > div > pre > code {
 
 @media (min-width: 992px)  {
     .page .col-lg-2:nth-child(1) {                
-        background: #00b0b0 url(/assets/aa-lizard-only-facing-right.png) no-repeat;
+        /*background: url(/assets/aa-lizard-only-facing-right.png) no-repeat;
         background-size: 80%;
-        background-position: 50% 2em;
-        opacity: .2;
+        background-position: 50% 2em;*/
         
+        border-right: dashed 2px #eee;
                     }
 }
 

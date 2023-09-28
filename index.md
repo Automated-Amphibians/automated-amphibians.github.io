@@ -27,13 +27,17 @@ keywords: frc, automated amphibians, robotics
     }
 </style>
 
-The [Automated Amphibians](about) are a [FIRST robotics](https://www.firstinspires.org/robotics/frc) team based out of Novi High School. 
+The [Automated Amphibians](about) are a FIRST robotics team based out of Novi High School. 
 
-After a hard 2023 robot competition season, the Amphibians were able to travel to the Michigan State Championships, and then to the World Championships in Houston. Read all about the [2023 Amphibians season in our recap](/seasons/2023/season)!
+### Latest
+Automated Amphibians competed and [won the Bulldog Trophy](/seasons/2023/kettering-kickoff) as the top alliance at the Kettering University Kickoff Event (day 2)!
+<!-- After a hard 2023 robot competition season, the Amphibians were able to travel to the Michigan State Championships, and then to the World Championships in Houston. Read all about the [2023 Amphibians season in our recap](/seasons/2023/season). -->
 
 <div id="slideshow1" style="position: relative; width: 800px; height: 600px;">
-  <img src="assets/team-latest.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;" id="image1"/>  
-  <img src="assets/Robotplacingcone.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;" id="image3"/>
+<!-- the image with opacity 1 shows first -->
+  <img src="/seasons/2023/bulldog-trophy.png" style="position: absolute; width: 63%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;" id="image1"/>  
+  <img src="assets/team-latest.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;" id="image2"/>
+  <img src="assets/Robotplacingcone.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;" id="image3"/> 
 </div>
 
 <script>
