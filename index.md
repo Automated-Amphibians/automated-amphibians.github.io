@@ -35,7 +35,7 @@ Automated Amphibians competed and [won the Bulldog Trophy](/seasons/2023/ketteri
 
 <div id="slideshow1" style="position: relative; width: 800px; height: 600px;">
 <!-- the image with opacity 1 shows first -->
-  <img src="/seasons/2023/bulldog-trophy.png" style="position: absolute; width: 63%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;" id="image1"/>  
+  <img src="/seasons/2023/kettering-win-alliance.jpeg" style="position: absolute; width: 100%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;" id="image1"/>  
   <img src="assets/team-latest.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;" id="image2"/>
   <img src="assets/Robotplacingcone.jpg" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;" id="image3"/> 
 </div>
