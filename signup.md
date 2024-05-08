@@ -2,17 +2,19 @@
 layout: content
 ---
 
-Thank you for your interest in the Automated Amphibians. We're currently at
+<!-- Thank you for your interest in the Automated Amphibians. We're currently at
 capacity, and unable to take additional students. 
 
 At this time, [Frog Force is still accepting new
 members](https://frogforce503.org/page-newmember-interest.html) who apply and
-are willing to meet the requirements.  
+are willing to meet the requirements.   
 
-<!--Our[signup](https://forms.gle/zwqr2hLkwTAggtEQ7)
+https://aa-8426.org/sign-up
 
-If you signup using this link, you will receive and email that we are over
-capacity, but we appreciate the effort.
+-->
+
+You should be redirect to the [signup](https://forms.gle/zwqr2hLkwTAggtEQ7).
+
 
 <script>
     window.location = "https://forms.gle/zwqr2hLkwTAggtEQ7";
