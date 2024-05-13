@@ -13,10 +13,10 @@ https://aa-8426.org/sign-up
 
 -->
 
-You should be redirect to the [signup](https://forms.gle/zwqr2hLkwTAggtEQ7).
+You should be redirect to the [signup](https://forms.gle/2RKSYhJorrU9t8Vf8).
 
 
 <script>
-    window.location = "https://forms.gle/zwqr2hLkwTAggtEQ7";
+    window.location = "https://forms.gle/2RKSYhJorrU9t8Vf8";
 </script>
 -->
