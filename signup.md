@@ -13,10 +13,10 @@ https://aa-8426.org/sign-up
 
 -->
 
-You should be redirect to the [signup](https://forms.gle/eHX7pf4uj8GR8NBm9).
+You should be redirect to the [signup](https://automated-amphibians.org/surveys/1).
 
 
 <script>
-    window.location = "https://forms.gle/eHX7pf4uj8GR8NBm9";
+    window.location = "https://automated-amphibians.org/surveys/1";
 </script>
 -->
